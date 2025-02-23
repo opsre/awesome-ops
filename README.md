@@ -785,6 +785,7 @@
 | [deepflowio/deepflow](https://github.com/deepflowio/deepflow) | Apache-2.0|2841|2022-01-16|2024-10-04 | DeepFlow 开源项目旨在为复杂的云基础设施及云原生应用提供深度可观测性。 |
 | [AutohomeCorp/frostmourne](https://github.com/AutohomeCorp/frostmourne) | MIT|1391|2019-12-16|2023-06-14 | 基于 Elasticsearch,  Prometheus,  SkyWalking,  InfluxDB，MySQL/TiDB，ClickHouse,  SQLServer,  IoTDB 数据的分布式监控报警系统 |
 | [grafana/grafana](https://github.com/grafana/grafana) | AGPL-3.0|64251|2013-12-11|2024-10-05 | 开放且可组合的可观测性和数据可视化平台。可视化来自 Prometheus、Loki、Elasticsearch、InfluxDB、Postgres 等多个来源的指标、日志和跟踪。 |
+| [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) | AGPL-3.0|4077|2014-07-10|2024-02-23 | Checkmate 是一个开源的、自托管的工具，旨在实时跟踪和监控服务器硬件、正常运行时间、响应时间和事件，并提供精美的可视化展示。|
 | [dromara/hertzbeat](https://github.com/dromara/hertzbeat) | Apache-2.0|5536|2022-02-04|2024-10-04 | 易用友好的开源实时监控告警系统，无需 Agent，高性能集群，兼容 Prometheus，强大自定义监控能力 |
 | [cilium/hubble](https://github.com/cilium/hubble) | Apache-2.0|3486|2019-11-19|2024-10-06 | Hubble - 使用 eBPF 的 Kubernetes 网络、服务和安全可观测性 |
 | [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) | MIT|6605|2023-09-13|2024-10-02 | 一个开源可观察性平台，统一会话重放、日志、指标、跟踪和错误 |
