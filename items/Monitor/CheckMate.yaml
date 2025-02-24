@@ -1,0 +1,5 @@
+kind: Monitor
+owner: bluewave-labs
+repo: checkmate
+desc: 'Checkmate 是一个开源的、自托管的工具，旨在实时跟踪和监控服务器硬件、正常运行时间、响应时间和事件，并提供精美的可视化展示。'
+desc_en: 'Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.'
