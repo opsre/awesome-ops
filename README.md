@@ -6,14 +6,15 @@
 <p> 🧐 共分设类目 75 个，📥 计收录项目 525 个。</p>
 <p> 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
+[![Auth](https://img.shields.io/badge/Auther--eryajf-ff69b4.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAADZElEQVR4nO2ZX2iPURjHP/7/aZN/E21DaZvtwoVYyQUuGXLB/LtkLRcUhSJMSVwg3KCUJPJvLmRZtMQFLvwZhUJk/saGLWaYV6eet06n9/3tfd+9531/sW89td9z3vOc8z3nPOc8zzPoQQ+yAnlAA/AbcCzKR2ClTSL7LRNwNPkB5Noi0pggEQeYbovIh4SJLLBBojfwK2EiVTaIjEyYhANsskGkNAUi+2wQmZECkRM2iCxMgUi9DSKrxPhS7GOZjHXPhvGtYlwdMduYKWO9tmH8oBgvxj6KZawOoFfcxk+L8RzsI0fzkyFhO28EvqXg0FHlK1DtReRzFkzOCSmfvIhczIKJOSHlmheRgcAK4E4WTNDpQp4Ba4P4zxRgO3ArgSQqqDQDx4AKCWBDYwSwRDP4JWECG4CpQB9iwCTNsBsJl8srvxk4CtQBN4Enkre0GKQ7RaekCXgAXAcuAHuB1bLaZcAgrd+2uK78ai0PsfLSBshG70u9IDJmyUq2AYvlbD5N4Dg9l/EnArdFV9sdIlfEiLrNzFAlqPwE2kP2OaKNlyfH8Q9QFJVIixgepukqIuTdRRI3Be1TaczjnOgXRSXyTgwUarrBIVb4htbvcMA+nR7+UCdtc6MSOS8G9hj6+gjlnHEBd+WuMVaZ9FMyJiqRydrgB4B80VcFmFBtxALfFm3nlwPv48rfK7WoWDkc8jgpYq0eE/kOnAGG+4RBh3z6qTGOyzfIJeG2nQL6EQMmaEaTgtNdv+jKcFJwbI33XxEpAM76+IArrXIbFqVFpE0MuzeXF4nmEI9ecwZbhVo6GzsaxLhnniw74YQUVdDwwjppv2yzaPbIJ7HJdJz8RIX5JgYAL6V9vg0ifYEXMsAaj3Z3cpfkmPmhQAs5vHxgh+gbbdS0XMyTQdrkbdHhTiwTCdMHTCLl8hCqeGsalnFSO2JDNb3XxOZINqhkttFmfq8W4I1PbGcFuVr21qCloe7EarRvmzT9K01fYxAZJVmgA1yNKxwh4NF4q0Wr+UZs5JIxndskoVLoEskI1e/HRu6TCEpklR1ZebPcqk/YT9cu1UL190NgNCmhQGpfTjelLo2dMNEf2BkylXVF7eL6qAU3WyiVvCHIv7A7pBY2nizGWGC3FOr0XeoQZ96VIcbqAf8K/gLNGaTJ3vwbFgAAAABJRU5ErkJggg==)](https://github.com/eryajf)
 [![GitHub contributors](https://img.shields.io/github/contributors/eryajf/awesome-ops)](https://github.com/eryajf/awesome-ops/graphs/contributors)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/awesome-ops)](https://github.com/eryajf/awesome-ops/pulls)
 [![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/awesome-ops)](https://github.com/eryajf/awesome-ops/stargazers)
 [![HitCount](https://views.whatilearened.today/views/github/eryajf/awesome-ops.svg)](https://github.com/eryajf/awesome-ops)
 [![GitHub license](https://img.shields.io/github/license/eryajf/awesome-ops)](https://github.com/eryajf/awesome-ops/blob/main/LICENSE)
-[![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme)
+[![Eryajf Blog](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5-d7b1bf?logo=Blogger)](https://wiki.eryajf.net)
+[![Eryajf WeChat](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E8%BF%90%E7%BB%B4%E8%89%BA%E6%9C%AF-71f9fe?logo=WeChat)](https://y.gtimg.cn/music/photo_new/T053M000003iCCnF30PTi3.jpg)
+[![Eryajf Awesome Stars](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme)
 
 </div>
 
@@ -670,7 +671,7 @@
 | [eldadru/ksniff](https://github.com/eldadru/ksniff) | Apache-2.0|3297|2018-06-17|2024-08-02 | kubectl 插件，利用 tcpdump 和 Wireshark 在 K8s 集群中的 pod 上启动远程捕获 |
 | [kubewharf/kubegateway](https://github.com/kubewharf/kubegateway) | Apache-2.0|482|2022-07-14|2024-07-26 | kube-gateway 是字节跳动内部管理海量 kubernetes 集群的最佳实践。 它是为 kube-apiserver 的 HTTP2 流量专门设计并定制的七层负载均衡代理。 目标是为海量的大规模 kubernetes 集群（千级 node 以上）提供灵活的稳定的流量治理方案。 |
 | [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) | Apache-2.0|11278|2021-04-19|2025-04-01 | K8s 的 API 流量分析器，提供对 K8s 内部网络的实时协议级可见性，捕获和监控进出以及跨容器、pod、节点和集群的所有流量和负载 |
-| [traefik/traefik](https://github.com/traefik/traefik) | MIT|53968|2015-09-13|2025-04-03 | 一种现代 HTTP 反向代理和负载均衡器，可以轻松部署微服务 |
+| [traefik/traefik](https://github.com/traefik/traefik) | MIT|53969|2015-09-13|2025-04-03 | 一种现代 HTTP 反向代理和负载均衡器，可以轻松部署微服务 |
 
 <div align="right">
 
@@ -819,7 +820,7 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [LeslieLeung/heimdallr](https://github.com/LeslieLeung/heimdallr) | GPL-3.0|633|2022-05-27|2025-04-02 | 一个非常轻量的通知网关，可以聚合各种推送渠道，使用 Serverless 部署，几乎零成本运行。 |
+| [LeslieLeung/heimdallr](https://github.com/LeslieLeung/heimdallr) | GPL-3.0|633|2022-05-27|2025-04-03 | 一个非常轻量的通知网关，可以聚合各种推送渠道，使用 Serverless 部署，几乎零成本运行。 |
 | [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) | MIT|3051|2020-09-01|2025-03-13 | 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，仅单可执行文件，开箱即用 |
 | [novuhq/novu](https://github.com/novuhq/novu) | NOASSERTION|36692|2021-08-26|2025-04-03 | 开源的通知基础设施，可以使用一个 API 管理多个渠道的通知。 |
 
@@ -1129,7 +1130,7 @@
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [bjdgyc/anylink](https://github.com/bjdgyc/anylink) | AGPL-3.0|1775|2020-08-18|2025-03-25 | 一个企业级远程办公 SSL VPN 软件，可以支持多人同时在线使用 |
-| [juanfont/headscale](https://github.com/juanfont/headscale) | BSD-3-Clause|26728|2020-06-21|2025-04-02 | Tailscale控制服务器的开源、自托管实现 |
+| [juanfont/headscale](https://github.com/juanfont/headscale) | BSD-3-Clause|26730|2020-06-21|2025-04-02 | Tailscale控制服务器的开源、自托管实现 |
 | [gravitl/netmaker](https://github.com/gravitl/netmaker) | NOASSERTION|10006|2021-03-25|2025-04-03 | Netmaker使用WireGuard构建网络。Netmaker自动化了快速、安全和分布式的虚拟网络 |
 
 <div align="right">
@@ -1151,7 +1152,7 @@
 | [moovweb/gvm](https://github.com/moovweb/gvm) | MIT|10793|2011-12-03|2024-08-08 | 一个简单的工具，用于多个 Golang 版本的管理与切换 |
 | [jenv/jenv](https://github.com/jenv/jenv) | MIT|6099|2013-01-24|2024-06-11 | 一个简单的工具，用于多个 JDK 版本的管理与切换 |
 | [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) | MIT|40387|2014-09-20|2025-03-31 | 用于 Windows 系统中多个 Node 版本的管理与切换 |
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | MIT|83608|2010-04-15|2025-03-11 | 一个简单的工具，用于多个 Node 版本的管理与切换 |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | MIT|83609|2010-04-15|2025-03-11 | 一个简单的工具，用于多个 Node 版本的管理与切换 |
 | [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) | Apache-2.0|6285|2012-08-27|2025-01-14 | 在任何基于 Unix 的系统上管理多个软件开发工具包的多个版本的工具 |
 | [stefanmaric/g](https://github.com/stefanmaric/g) | MIT|932|2018-04-08|2023-07-10 | 又又一个用于多个 Golang 版本的管理与切换，包基于二进制安装 |
 | [version-fox/vfox](https://github.com/version-fox/vfox) | Apache-2.0|3162|2023-12-09|2025-03-31 | 跨平台的用于管理 SDK 版本的工具，允许你通过命令行快速安装和切换不同版本的 SDK |
@@ -1173,7 +1174,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) | MIT|16349|2015-08-29|2025-04-02 | 使用 PHP 和 Laravel 构建的创建文档/wiki 内容的平台 |
 | [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) | GPL-3.0|3060|2020-04-10|2025-04-01 | 觅思文档，适合于个人和中小型团队的在线文档、知识库系统 |
-| [facebook/docusaurus](https://github.com/facebook/docusaurus) | MIT|59160|2017-06-20|2025-04-03 | 一个用于轻松构建、部署和维护开源项目网站的项目 |
+| [facebook/docusaurus](https://github.com/facebook/docusaurus) | MIT|59159|2017-06-20|2025-04-03 | 一个用于轻松构建、部署和维护开源项目网站的项目 |
 | [halo-dev/halo](https://github.com/halo-dev/halo) | GPL-3.0|35125|2018-03-21|2025-04-02 | 强大易用的开源建站工具，更偏向于博客风格 |
 | [usememos/memos](https://github.com/usememos/memos) | MIT|38671|2021-12-08|2025-04-02 | 一项隐私优先的轻量级笔记服务, 轻松捕捉并分享您的精彩想法, [flomo](https://flomoapp.com/) 的开源替代品 |
 | [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) | BSD-2-Clause|20177|2014-01-11|2025-02-21 | MkDocs 是一个快速、简单且华丽的静态站点生成器，适用于构建项目文档。文档源文件是用 Markdown 编写的，并使用单个 YAML 配置文件进行配置。它的设计易于使用，并且可以通过第三方主题、插件和 Markdown 扩展进行扩展。 |
@@ -1390,7 +1391,7 @@
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [apicat/apicat](https://github.com/apicat/apicat) | N/A|279|2022-05-05|2024-11-18 | 一款基于 AI 技术的 API 开发工具，它旨在通过自动化和智能化的方式，帮助开发人员更快速、更高效地开发 API |
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT|70791|2019-08-21|2025-04-02 | 开源 API 开发生态系统，颜值非常高 |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT|70794|2019-08-21|2025-04-02 | 开源 API 开发生态系统，颜值非常高 |
 | [Kong/insomnia](https://github.com/Kong/insomnia) | Apache-2.0|35958|2016-04-23|2025-04-03 | 一个开源、跨平台 API 客户端，适用于 GraphQL、REST、WebSockets、服务器发送事件 (SSE)、gRPC 和任何其他 HTTP 兼容协议 |
 | [Postcatlab/postcat](https://github.com/Postcatlab/postcat) | Apache-2.0|5455|2021-11-24|2025-03-21 | 一个可扩展的 API 工具平台，支持多平台 |
 | [duolatech/xapimanager](https://github.com/duolatech/xapimanager) | N/A|557|2017-04-18|2023-05-05 |  专业实用的开源接口管理平台，为程序开发者提供一个灵活，方便，快捷的 API 管理工具，让 API 管理变的更加清晰、明朗。 |
@@ -1461,7 +1462,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) | MIT|901|2022-07-02|2024-04-20 | GitHub 开源项目维护协作指南 |
 | [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) | NOASSERTION|3111|2019-07-10|2024-12-25 | 打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点 |
-| [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) | MIT|2895|2022-05-07|2024-12-31 | 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像 |
+| [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) | MIT|2895|2022-05-07|2025-04-03 | 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像 |
 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | CC-BY-SA-4.0|77366|2018-10-06|2025-03-22 | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 |
 | [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) | N/A|9054|2019-12-23|2024-08-21 | 讨论如何构建一套可靠的大型分布式系统 |
 | [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) | N/A|6160|2021-01-06|2024-10-13 | 超全 Golang 面试题合集&#43;Golang 学习指南&#43;Golang 知识图谱&#43;入门成长路线 |
@@ -1623,14 +1624,14 @@
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [RustScan/RustScan](https://github.com/RustScan/RustScan) | GPL-3.0|16062|2020-07-11|2025-04-02 | 现代端口扫描仪，3 秒内扫描所有 65k 端口。 |
-| [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | N/A|25810|2019-10-09|2025-03-11 | 免费的终端工具，SSH、Telnet、TCP、Shell、串行，支持多平台 |
+| [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | N/A|25811|2019-10-09|2025-03-11 | 免费的终端工具，SSH、Telnet、TCP、Shell、串行，支持多平台 |
 | [beyondgrep/ack3](https://github.com/beyondgrep/ack3) | NOASSERTION|746|2017-03-03|2025-02-06 | ack 是一个代码搜索工具，类似于 grep，但针对搜索大型源代码树的程序员进行了优化。 |
 | [withfig/autocomplete](https://github.com/withfig/autocomplete) | MIT|24848|2020-09-29|2025-03-31 | 非常强大的终端命令参数自动补全工具 |
 | [wting/autojump](https://github.com/wting/autojump) | NOASSERTION|16486|2009-01-14|2025-02-27 | autojump 是一个快速跳转到目录的命令行工具，它可以记住你经常访问的目录并通过模糊匹配的方式快速跳转到目标目录 |
 | [awslabs/aws-shell](https://github.com/awslabs/aws-shell) | Apache-2.0|7263|2015-09-29|2024-12-16 | AWS CLI 的交互式生产力增强器 |
 | [sharkdp/bat](https://github.com/sharkdp/bat) | Apache-2.0|52026|2018-04-21|2025-04-02 | 类似 cat 命令，但带有 git 集成和语法高亮. |
 | [Canop/broot](https://github.com/Canop/broot) | MIT|11211|2018-11-15|2025-03-25 | 获取目录的概览，即使是一个大目录也能快速浏览 |
-| [aristocratos/btop](https://github.com/aristocratos/btop) | Apache-2.0|24001|2021-05-06|2025-03-20 | 系统资源监视器显示处理器、内存、磁盘、网络和进程的使用情况和统计​​信息 |
+| [aristocratos/btop](https://github.com/aristocratos/btop) | Apache-2.0|24002|2021-05-06|2025-03-20 | 系统资源监视器显示处理器、内存、磁盘、网络和进程的使用情况和统计​​信息 |
 | [owenthereal/ccat](https://github.com/owenthereal/ccat) | MIT|3183|2015-05-06|2022-09-05 | ccat是着色cat。它的工作原理与此类似，cat但显示带有语法突出显示的内容。 |
 | [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) | GPL-3.0|5059|2023-09-03|2025-04-03 | 一款用 C 语言编写的各语言换源的工具 |
 | [cli/cli](https://github.com/cli/cli) | MIT|38754|2019-10-03|2025-04-03 | GitHub的 官方命令行交互工具 |
@@ -1742,7 +1743,7 @@
 | [team-ide/teamide](https://github.com/team-ide/teamide) | Apache-2.0|698|2021-11-30|2025-03-20 | 集成 MySQL、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch 等管理工具 |
 | [test-instructor/yangfan](https://github.com/test-instructor/yangfan) | Apache-2.0|128|2022-07-23|2024-08-09 | 一款高效、可靠的自动化测试平台，旨在帮助团队提升测试效率、降低测试成本 |
 | [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) | GPL-3.0|817|2022-03-09|2023-05-16 | 基于 Rust 构建的远程桌面控制软件 |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | AGPL-3.0|85925|2020-09-28|2025-04-03 | 一个远程桌面软件，用 Rust 编写。开箱即用，无需配置。您可以完全控制您的数据，无需担心安全性。 |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | AGPL-3.0|85926|2020-09-28|2025-04-03 | 一个远程桌面软件，用 Rust 编写。开箱即用，无需配置。您可以完全控制您的数据，无需担心安全性。 |
 | [vprix/vncproxy](https://github.com/vprix/vncproxy) | Apache-2.0|234|2022-05-31|2023-07-18 | VncProxy 是使用 Golang 实现的 Vnc 远程桌面代理组件，完全解析 rfb 协议，支持远程桌面代理，rbs 文件录屏，rbs 文件回放，截图，录制视频  |
 
 <div align="right">
@@ -1786,7 +1787,7 @@
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [apolloconfig/apollo](https://github.com/apolloconfig/apollo) | Apache-2.0|29414|2016-03-04|2025-04-01 | Apollo（阿波罗）是一款可靠的分布式配置管理中心，诞生于携程框架研发部，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。 |
-| [alibaba/nacos](https://github.com/alibaba/nacos) | Apache-2.0|31100|2018-06-15|2025-04-03 | 一个易于使用的动态服务发现、配置和服务管理平台，用于构建云原生应用程序。 |
+| [alibaba/nacos](https://github.com/alibaba/nacos) | Apache-2.0|31099|2018-06-15|2025-04-03 | 一个易于使用的动态服务发现、配置和服务管理平台，用于构建云原生应用程序。 |
 
 <div align="right">
 
