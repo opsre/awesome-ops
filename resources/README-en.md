@@ -7,8 +7,6 @@ English | [简体中文](../README.md)
 <p>🧰 Record every excellent project related to operation and maintenance, The table in the project is automatically generated through GitHub Action. 🧰</p>
 
 [![Auth](https://img.shields.io/badge/Auther--eryajf-ff69b4.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAADZElEQVR4nO2ZX2iPURjHP/7/aZN/E21DaZvtwoVYyQUuGXLB/LtkLRcUhSJMSVwg3KCUJPJvLmRZtMQFLvwZhUJk/saGLWaYV6eet06n9/3tfd+9531/sW89td9z3vOc8z3nPOc8zzPoQQ+yAnlAA/AbcCzKR2ClTSL7LRNwNPkB5Noi0pggEQeYbovIh4SJLLBBojfwK2EiVTaIjEyYhANsskGkNAUi+2wQmZECkRM2iCxMgUi9DSKrxPhS7GOZjHXPhvGtYlwdMduYKWO9tmH8oBgvxj6KZawOoFfcxk+L8RzsI0fzkyFhO28EvqXg0FHlK1DtReRzFkzOCSmfvIhczIKJOSHlmheRgcAK4E4WTNDpQp4Ba4P4zxRgO3ArgSQqqDQDx4AKCWBDYwSwRDP4JWECG4CpQB9iwCTNsBsJl8srvxk4CtQBN4Enkre0GKQ7RaekCXgAXAcuAHuB1bLaZcAgrd+2uK78ai0PsfLSBshG70u9IDJmyUq2AYvlbD5N4Dg9l/EnArdFV9sdIlfEiLrNzFAlqPwE2kP2OaKNlyfH8Q9QFJVIixgepukqIuTdRRI3Be1TaczjnOgXRSXyTgwUarrBIVb4htbvcMA+nR7+UCdtc6MSOS8G9hj6+gjlnHEBd+WuMVaZ9FMyJiqRydrgB4B80VcFmFBtxALfFm3nlwPv48rfK7WoWDkc8jgpYq0eE/kOnAGG+4RBh3z6qTGOyzfIJeG2nQL6EQMmaEaTgtNdv+jKcFJwbI33XxEpAM76+IArrXIbFqVFpE0MuzeXF4nmEI9ecwZbhVo6GzsaxLhnniw74YQUVdDwwjppv2yzaPbIJ7HJdJz8RIX5JgYAL6V9vg0ifYEXMsAaj3Z3cpfkmPmhQAs5vHxgh+gbbdS0XMyTQdrkbdHhTiwTCdMHTCLl8hCqeGsalnFSO2JDNb3XxOZINqhkttFmfq8W4I1PbGcFuVr21qCloe7EarRvmzT9K01fYxAZJVmgA1yNKxwh4NF4q0Wr+UZs5JIxndskoVLoEskI1e/HRu6TCEpklR1ZebPcqk/YT9cu1UL190NgNCmhQGpfTjelLo2dMNEf2BkylXVF7eL6qAU3WyiVvCHIv7A7pBY2nizGWGC3FOr0XeoQZ96VIcbqAf8K/gLNGaTJ3vwbFgAAAABJRU5ErkJggg==)](https://github.com/eryajf)
-[![GitHub contributors](https://img.shields.io/github/contributors/eryajf/awesome-ops)](https://github.com/eryajf/awesome-ops/graphs/contributors)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/awesome-ops)](https://github.com/eryajf/awesome-ops/pulls)
 [![GitHub Stars](https://img.shields.io/github/stars/eryajf/awesome-ops)](https://github.com/eryajf/awesome-ops/stargazers)
 [![HitCount](https://views.whatilearened.today/views/github/eryajf/awesome-ops.svg)](https://github.com/eryajf/awesome-ops)
 [![GitHub license](https://img.shields.io/github/license/eryajf/awesome-ops)](https://github.com/eryajf/awesome-ops/blob/main/LICENSE)
@@ -733,7 +731,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner) | Apache-2.0|1365|2019-03-15|2024-06-30 | Simple Kubernetes real-time dashboard and management tool |
 | [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) | NOASSERTION|6751|2017-02-23|2025-04-02 | Local development against a remote Kubernetes or OpenShift cluster |
 | [jrhouston/tfk8s](https://github.com/jrhouston/tfk8s) | MIT|1010|2020-04-28|2024-01-17 | A tool for converting Kubernetes YAML manifests to Terraform HCL |
-| [1Panel-dev/webkubectl](https://github.com/1Panel-dev/webkubectl) | Apache-2.0|867|2019-10-14|2024-08-13 | Web Kubectl helps you manage kubernetes credentials and run kubectl command in web browser,  so that you do not have to install kubectl on your local PC or some other servers,  furthermore Web Kubectl can be used for a team. |
+| [1Panel-dev/webkubectl](https://github.com/1Panel-dev/webkubectl) | Apache-2.0|868|2019-10-14|2024-08-13 | Web Kubectl helps you manage kubernetes credentials and run kubectl command in web browser,  so that you do not have to install kubectl on your local PC or some other servers,  furthermore Web Kubectl can be used for a team. |
 
 <div align="right">
 
@@ -795,7 +793,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [ccfos/nightingale](https://github.com/ccfos/nightingale) | Apache-2.0|10740|2020-03-03|2025-04-02 | All-in-One cloud native monitoring tool,  which combines the advantages of Prometheus and Grafana. You can manage and configure alarm strategies on the WebUI,  and you can also visualize and analyze metrics,  logs,  and link tracking data distributed in multiple regions |
 | [keyval-dev/odigos](https://github.com/keyval-dev/odigos) | Apache-2.0|3380|2022-06-08|2025-04-03 | Distributed tracing without code changes. 🚀 Monitor any application instantly with OpenTelemetry and eBPF |
 | [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) | Apache-2.0|13560|2014-10-20|2025-04-03 |  APM,  (Application Performance Management) tools for large-scale distributed systems. |
-| [SigNoz/signoz](https://github.com/SigNoz/signoz) | NOASSERTION|21338|2021-01-03|2025-04-03 | SigNoz is an open-source observability platform native to OpenTelemetry with logs,  traces and metrics in a single application. An open-source alternative to DataDog,  NewRelic,  etc. Open source Application Performance Monitoring (APM) &amp; Observability tool |
+| [SigNoz/signoz](https://github.com/SigNoz/signoz) | NOASSERTION|21339|2021-01-03|2025-04-03 | SigNoz is an open-source observability platform native to OpenTelemetry with logs,  traces and metrics in a single application. An open-source alternative to DataDog,  NewRelic,  etc. Open source Application Performance Monitoring (APM) &amp; Observability tool |
 | [apache/skywalking](https://github.com/apache/skywalking) | Apache-2.0|24189|2015-11-07|2025-03-31 |   An open source APM system that provides monitoring,  tracking and diagnostic capabilities for distributed systems in cloud native architecture. |
 | [grafana/tempo](https://github.com/grafana/tempo) | AGPL-3.0|4361|2020-01-24|2025-04-03 |  Grafana Tempo is a high volume, minimal dependency distributed tracing backend. |
 | [starsliao/TenSunS](https://github.com/starsliao/TenSunS) | WTFPL|1429|2022-01-28|2025-02-18 | Consul-based Operations Platform: A More Elegant Consul Management UI ,  Syncing Prometheus/JumpServer Metrics for Multi-cloud and Self-hosted ECS/MySQL/Redis ,  Cloud Monitoring for ECS/MySQL/Redis ,  Blackbox Site Monitoring Maintenance ,  Vulnerability Notifications/Resource Expiry Balance Alerts ,  Various Resource Dashboards Displayed in Grafana |
@@ -1105,7 +1103,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [bitepeng/b0pass](https://github.com/bitepeng/b0pass) | Apache-2.0|2192|2019-10-24|2023-12-15 | High-performance `mobile phone computer ultra-large file transfer artifact` and `LAN shared file server` based on Go language |
 | [knoxite/knoxite](https://github.com/knoxite/knoxite) | AGPL-3.0|290|2016-07-28|2023-08-29 | A secure data storage and backup system. |
 | [kopia/kopia](https://github.com/kopia/kopia) | Apache-2.0|9154|2015-12-19|2025-04-02 | Cross-platform backup tool for Windows, macOS, and Linux, with fast incremental backup, client-side end-to-end encryption, compression, and deduplication. Includes CLI and GUI. |
-| [localsend/localsend](https://github.com/localsend/localsend) | Apache-2.0|59645|2022-12-16|2025-04-02 | A free,  open-source application that allows you to securely share files and messages with nearby devices on your local network without an internet connection |
+| [localsend/localsend](https://github.com/localsend/localsend) | Apache-2.0|59646|2022-12-16|2025-04-02 | A free,  open-source application that allows you to securely share files and messages with nearby devices on your local network without an internet connection |
 | [lra/mackup](https://github.com/lra/mackup) | GPL-3.0|14816|2013-04-06|2025-04-02 | A tool that keeps your application configuration in sync |
 | [deajan/osync](https://github.com/deajan/osync) | BSD-3-Clause|953|2013-06-18|2025-03-08 | A powerful bidirectional (two-way) file synchronization script based on rsync,  with fault tolerance,  POSIX ACL support,  time control,  and near real-time synchronization |
 | [mtlynch/picoshare](https://github.com/mtlynch/picoshare) | NOASSERTION|2485|2022-02-14|2025-04-03 | A file sharing service that supports multiple types,  easy to deploy and easy to use |
@@ -1129,7 +1127,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [bjdgyc/anylink](https://github.com/bjdgyc/anylink) | AGPL-3.0|1775|2020-08-18|2025-03-25 | An enterprise remote office SSL VPN software that can support multiple people to use online at the same time |
-| [juanfont/headscale](https://github.com/juanfont/headscale) | BSD-3-Clause|26730|2020-06-21|2025-04-02 | An open source, self-hosted implementation of the Tailscale control server |
+| [juanfont/headscale](https://github.com/juanfont/headscale) | BSD-3-Clause|26732|2020-06-21|2025-04-02 | An open source, self-hosted implementation of the Tailscale control server |
 | [gravitl/netmaker](https://github.com/gravitl/netmaker) | NOASSERTION|10006|2021-03-25|2025-04-03 | Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks |
 
 <div align="right">
@@ -1276,7 +1274,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [madneal/gshark](https://github.com/madneal/gshark) | Apache-2.0|955|2018-03-09|2025-04-02 | Scan code leaks,  sensitive information leaks and other security issues from GitHub,  GitLab,  etc. according to keywords and other rules |
 | [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) | MIT|8300|2016-10-17|2025-04-02 | reviewdog provides a way to post review comments to code hosting service,  such as GitHub,  automatically by integrating with any linter tools with ease. It uses an output of lint tools and posts them as a comment if findings are in diff of patches to review. |
-| [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) | LGPL-3.0|9458|2011-01-05|2025-03-27 | SonarQube not only shows the health of an application but also highlights newly introduced issues. With a Quality Gate in place,  you can fix the leak and therefore improve code quality systematically. |
+| [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) | LGPL-3.0|9459|2011-01-05|2025-03-27 | SonarQube not only shows the health of an application but also highlights newly introduced issues. With a Quality Gate in place,  you can fix the leak and therefore improve code quality systematically. |
 | [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | AGPL-3.0|18658|2016-12-31|2025-04-03 | A tool for scanning whether the code contains sensitive information such as passwords and keys,  which can be integrated into your pipeline |
 | [chaitin/veinmind-tools](https://github.com/chaitin/veinmind-tools) | MIT|1574|2022-02-08|2024-01-10 | Container security toolset,  supporting container malicious files,  weak passwords,  vulnerabilities,  backdoors and other scanning capabilities |
 
@@ -1390,7 +1388,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [apicat/apicat](https://github.com/apicat/apicat) | N/A|279|2022-05-05|2024-11-18 | An API development tool based on AI technology,  which aims to help developers develop APIs faster and more efficiently through automation and intelligence |
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT|70794|2019-08-21|2025-04-02 | Open source API development ecosystem,  very high face value |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT|70795|2019-08-21|2025-04-02 | Open source API development ecosystem,  very high face value |
 | [Kong/insomnia](https://github.com/Kong/insomnia) | Apache-2.0|35958|2016-04-23|2025-04-03 | An open source cross-platform API client,  suitable for GraphQL,  REST,  WebSockets,  Server-Sent Events (SSE),  gRPC and any other HTTP compatible protocol |
 | [Postcatlab/postcat](https://github.com/Postcatlab/postcat) | Apache-2.0|5455|2021-11-24|2025-03-21 | An extensible API tool platform,  support multi-platform |
 | [duolatech/xapimanager](https://github.com/duolatech/xapimanager) | N/A|557|2017-04-18|2023-05-05 | A professional and practical open source interface management platform,  which provides a flexible,  convenient and fast API management tool for programmers,  making API management more clear and clear. |
@@ -1435,11 +1433,11 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [Cloudreve/Cloudreve](https://github.com/Cloudreve/Cloudreve) | GPL-3.0|22746|2018-02-04|2025-02-25 | Public cloud file system that supports multiple cloud storage drivers |
-| [alist-org/alist](https://github.com/alist-org/alist) | AGPL-3.0|47485|2020-12-23|2025-04-03 | 🗂️ A file list/WebDAV program that supports multiple storages,  powered by Gin and Solidjs. |
+| [alist-org/alist](https://github.com/alist-org/alist) | AGPL-3.0|47486|2020-12-23|2025-04-03 | 🗂️ A file list/WebDAV program that supports multiple storages,  powered by Gin and Solidjs. |
 | [songquanpeng/go-file](https://github.com/songquanpeng/go-file) | MIT|1035|2020-04-08|2025-03-13 | File sharing tool,  only a single executable file,  ready to use,  can be used to share files and folders in the LAN,  directly run full local bandwidth |
 | [jamebal/jmal-cloud-view](https://github.com/jamebal/jmal-cloud-view) | MIT|744|2020-02-09|2025-03-31 | A private cloud storage network disk project that can simply and securely manage your cloud files |
 | [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) | N/A|12346|2017-12-12|2025-04-02 | Document online preview project solution, built using the popular Spring Boot framework, easy to set up and deploy. |
-| [minio/minio](https://github.com/minio/minio) | AGPL-3.0|51289|2015-01-14|2025-04-03 | MinIO is a high-performance, S3 compatible object store. |
+| [minio/minio](https://github.com/minio/minio) | AGPL-3.0|51290|2015-01-14|2025-04-03 | MinIO is a high-performance, S3 compatible object store. |
 | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | Apache-2.0|24043|2014-07-14|2025-04-02 | SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! |
 | [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) | MIT|2582|2021-08-05|2024-07-13 | Media stream transmission tool based on WebRTC |
 | [helloxz/zdir](https://github.com/helloxz/zdir) | Apache-2.0|1485|2018-06-18|2024-08-15 | Lightweight directory list program developed using Golang &#43; Vue3,  support Linux,  Docker,  Windows deployment,  support video,  audio,  code and other conventional file preview,  suitable for personal or start-up company file sharing use,  can also be used as a lightweight network disk |
@@ -1466,7 +1464,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) | N/A|9054|2019-12-23|2024-08-21 | Discuss how to build a reliable large-scale distributed system |
 | [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) | N/A|6160|2021-01-06|2024-10-13 | A collection of super Golang interview questions &#43; Golang learning guides &#43; Golang knowledge map &#43; entry growth route |
 | [lifei6671/interview-go](https://github.com/lifei6671/interview-go) | Apache-2.0|5238|2018-02-26|2025-01-10 | Golang common interview questions collection |
-| [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) | NOASSERTION|1521|2023-10-26|2024-12-30 | Chinese k8s tutorial,  suitable for beginners to read |
+| [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) | NOASSERTION|1522|2023-10-26|2024-12-30 | Chinese k8s tutorial,  suitable for beginners to read |
 | [caicloud/kube-ladder](https://github.com/caicloud/kube-ladder) | N/A|2528|2019-07-15|2022-11-28 | The document aims to provide a Kubernetes learning path for practitioners and provide some guidance |
 | [duyanghao/kubernetes-reading-notes](https://github.com/duyanghao/kubernetes-reading-notes) | N/A|209|2020-03-16|2024-04-26 | Kubernetes source code reading notes, focusing on cloud native, edge computing, comprehensive quality of programmers and self-cultivation |
 | [phodal/ledge](https://github.com/phodal/ledge) | MPL-2.0|2152|2020-03-09|2023-12-05 | DevOps,  R&amp;D efficiency knowledge and tool platform,  is a knowledge system we have refined based on a series of DevOps practices,  agile practices,  software development and testing,  and lean practices at ThoughtWorks |
@@ -1699,7 +1697,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [instantbox/instantbox](https://github.com/instantbox/instantbox) | MIT|4152|2018-12-11|2024-03-12 | Get a clean,  ready-to-go Linux box in seconds. |
-| [utmapp/utm](https://github.com/utmapp/utm) | Apache-2.0|28739|2019-04-12|2025-02-24 | Virtual machine tool for iOS and MacOS |
+| [utmapp/utm](https://github.com/utmapp/utm) | Apache-2.0|28740|2019-04-12|2025-02-24 | Virtual machine tool for iOS and MacOS |
 
 <div align="right">
 
@@ -1729,7 +1727,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) | MIT|1520|2022-06-08|2025-03-30 | A simple personal Linux server ssh management panel (WEBSSH, WEBSFTP) |
 | [rock-app/fabu.love](https://github.com/rock-app/fabu.love) | Apache-2.0|1021|2018-06-13|2025-01-22 | Application release platform similar to fir.im/pugongying,  support check update,  gray release,  etc. |
 | [theforeman/foreman](https://github.com/theforeman/foreman) | GPL-3.0|2668|2009-07-23|2025-04-03 | A free open source project that enables you to easily automate repetitive tasks,  quickly deploy applications,  and proactively manage the lifecycle of servers,  on-premises VMs,  or in the cloud. |
-| [harness/gitness](https://github.com/harness/gitness) | Apache-2.0|32569|2014-02-07|2025-04-03 | Gitness is an Open Source developer platform with Source Control management,  Continuous Integration and Continuous Delivery. |
+| [harness/gitness](https://github.com/harness/gitness) | Apache-2.0|32570|2014-02-07|2025-04-03 | Gitness is an Open Source developer platform with Source Control management,  Continuous Integration and Continuous Delivery. |
 | [dromara/mayfly-go](https://github.com/dromara/mayfly-go) | Apache-2.0|2053|2021-04-16|2025-03-17 | Web version Linux (terminal,  file script,  process,  scheduled task),  database (MySQL,  Postgres,  Daming),  Redis (single machine,  sentinel,  cluster),  MongoDB unified management operation platform |
 | [CloudWise-OpenSource/omp](https://github.com/CloudWise-OpenSource/omp) | GPL-3.0|266|2021-11-30|2024-05-14 | Lightweight,  aggregated,  intelligent operation and maintenance management platform |
 | [ssbeatty/oms](https://github.com/ssbeatty/oms) | AGPL-3.0|191|2020-08-20|2024-02-21 | A simple and easy-to-use operation and maintenance management platform developed by Golang,  which implements asset management,  file browser,  batch command,  batch upload file,  VNC connection and the ability to execute in parallel based on self-built scripts |
@@ -1742,7 +1740,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [team-ide/teamide](https://github.com/team-ide/teamide) | Apache-2.0|698|2021-11-30|2025-03-20 | Integrated MySQL,  Oracle,  Golden Warehouse,  Daming,  Shentong and other databases,  SSH,  FTP,  Redis,  Zookeeper,  Kafka,  Elasticsearch and other management tools |
 | [test-instructor/yangfan](https://github.com/test-instructor/yangfan) | Apache-2.0|128|2022-07-23|2024-08-09 | An efficient and reliable automated testing platform designed to help teams improve testing efficiency and reduce testing costs |
 | [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) | GPL-3.0|817|2022-03-09|2023-05-16 | Remote desktop control software based on Rust |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | AGPL-3.0|85926|2020-09-28|2025-04-03 | A remote desktop software written in Rust. Out of the box, no configuration required. You have full control of your data without worrying about security. |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | AGPL-3.0|85927|2020-09-28|2025-04-03 | A remote desktop software written in Rust. Out of the box, no configuration required. You have full control of your data without worrying about security. |
 | [vprix/vncproxy](https://github.com/vprix/vncproxy) | Apache-2.0|234|2022-05-31|2023-07-18 | VncProxy is a Vnc remote desktop proxy component implemented using Golang, which completely parses the rfb protocol, supports remote desktop proxy, rbs file recording, rbs file playback, screenshots, and video recording |
 
 <div align="right">
