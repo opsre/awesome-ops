@@ -1,6 +1,9 @@
 name: Sync to CNB
 
-on: [push]
+on:
+  workflow_run:
+    workflows: generator
+    types: completed
 
 jobs:
   sync:
