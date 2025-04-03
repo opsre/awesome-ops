@@ -1,0 +1,13 @@
+main:
+  push:
+    - stages:
+        - name: sync to github
+          image: tencentcom/git-sync
+          imports: https://cnb.cool/eryajf/build-env/-/blob/main/env.yaml
+          settings:
+            target_url: https://github.com/opsre/awesome-ops.git
+            auth_type: https
+            git_email: 'github-actions[bot]@users.noreply.github.com'
+            username: ${GIT_USERNAME}
+            password: ${GIT_ACCESS_TOKEN}
+            branch: main

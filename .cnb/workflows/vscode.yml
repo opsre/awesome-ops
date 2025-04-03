@@ -1,0 +1,9 @@
+$:
+  vscode:
+    - docker:
+        image: docker.cnb.cool/znb/images/debian:all
+      runner:
+        cpus: 8
+      services:
+        - vscode
+        - docker

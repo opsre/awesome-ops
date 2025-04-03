@@ -1,0 +1,8 @@
+workspace:
+  launch:
+    button:
+      name: 🛫 起飞
+      description: 💪 逐步迈向运维的四个现代化：规范化，标准化，高效化，优雅化
+    cpus: 8
+    disabled: false
+    autoOpenWebIDE: false
