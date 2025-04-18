@@ -1,0 +1,5 @@
+kind: Language-Tools
+owner: zulu-openjdk
+repo: zulu-openjdk
+desc: '该项目存放了Azul Zulu 构建的 OpenJDK 的 Docker 镜像的 Dockerfile。'
+desc_en: 'This project stores the Dockerfile of the OpenJDK built by Azul Zulu. '
