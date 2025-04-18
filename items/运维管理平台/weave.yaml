@@ -1,0 +1,5 @@
+kind: 运维管理平台
+owner: qingwave
+repo: weave
+desc: '一个基于Go + Vue3实现的Web应用模板，支持前后端，拥有完整的认证、存储、Restful API、应用管理（docker & kubernetes）功能'
+desc_en: 'A web application template based on Go + Vue3,  supports frontend and backend,  has complete authentication,  storage,  Restful API,  and application management (docker & kubernetes) functions'
