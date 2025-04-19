@@ -1,0 +1,5 @@
+kind: ElasticSearch-Manage
+owner: q2316367743
+repo: es-client
+desc: 'ElasticSearch 查询客户端。支持浏览器插件，utools，vscode 插件，桌面客户端，服务器部署等多平台。'
+desc_en: 'ElasticSearch query client. Supports browser plugins, utools, vscode plugins, desktop clients, server deployment, and other multiple platforms.'

@@ -1,0 +1,5 @@
+kind: 内网穿透
+owner: rapiz1
+repo: rathole
+desc: '安全、稳定、高性能的内网穿透工具，用 Rust 语言编写，类似frp'
+desc_en: 'A secure, stable, and high-performance intranet penetration tool written in Rust language, similar to FRP'

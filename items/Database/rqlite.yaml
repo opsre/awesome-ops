@@ -1,0 +1,5 @@
+kind: Database
+owner: rqlite
+repo: rqlite
+desc: '一个关系型数据库，它兼具 SQLite 的简洁性以及强大、容错的分布式系统。'
+desc_en: 'A relational database that combines the simplicity of SQLite with a powerful, fault-tolerant distributed system.'

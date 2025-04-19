@@ -1,0 +1,5 @@
+kind: DNS
+owner: pymumu
+repo: smartdns
+desc: '一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。'
+desc_en: 'A local DNS server to obtain the fastest website IP, get the best internet experience, support DoH, DoT，DoQ。'

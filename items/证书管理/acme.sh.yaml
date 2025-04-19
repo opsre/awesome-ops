@@ -1,0 +1,5 @@
+kind: 证书管理
+owner: acmesh-official
+repo: acme.sh
+desc: '实现了 acme 协议，可以从 ZeroSSL，Let''s Encrypt 等 CA 生成免费的证书。'
+desc_en: 'Implemented ACME protocol, which can generate free certificates from CA such as ZeroSSL and Let''s Encrypt.'

@@ -1,0 +1,5 @@
+kind: Version-Switch-Tools
+owner: bernardoduarte
+repo: awesome-version-managers
+desc: '各种语言版本管理项目合集'
+desc_en: 'Collection of various language version management projects'

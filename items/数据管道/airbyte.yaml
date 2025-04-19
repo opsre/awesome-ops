@@ -1,0 +1,5 @@
+kind: 数据管道
+owner: airbytehq
+repo: airbyte
+desc: '一个开源数据集成引擎，可帮助您整合数据仓库、数据湖和数据库中的数据。'
+desc_en: 'An open-source data integration engine that can help you integrate data from data warehouses, data lakes, and databases.'

@@ -1,0 +1,5 @@
+kind: Wiki-Server
+owner: toeverything
+repo: AFFiNE
+desc: '一个开源的，类 notion 的笔记工具。'
+desc_en: 'An open-source note taking tool similar to Notion.'

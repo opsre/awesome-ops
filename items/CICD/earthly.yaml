@@ -1,0 +1,5 @@
+kind: CICD
+owner: earthly
+repo: earthly
+desc: '超级简单的构建框架，具有快速、可重复的构建和即时熟悉的语法 - 就像 Dockerfile 和 Makefile 的结合体。'
+desc_en: 'A super simple construction framework with fast, repeatable builds and instantly familiar syntax - just like the combination of Dockerfile and Makefile.'

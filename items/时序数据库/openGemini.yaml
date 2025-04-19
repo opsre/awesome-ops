@@ -1,0 +1,5 @@
+kind: 时序数据库
+owner: openGemini
+repo: openGemini
+desc: '一款云原生分布式时序数据库，主要面向物联网和运维监控场景'
+desc_en: 'A cloud native distributed temporal database primarily designed for IoT and operation monitoring scenarios'

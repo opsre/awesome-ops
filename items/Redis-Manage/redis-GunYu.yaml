@@ -1,0 +1,5 @@
+kind: Redis-Manage
+owner: mgtv-tech
+repo: redis-GunYu
+desc: '一款 redis 数据治理工具，可以进行数据实时同步，数据迁移，备份、校验恢复，数据分析等等。'
+desc_en: 'A Redis data governance tool that can perform real-time data synchronization, data migration, backup, verification and recovery, data analysis, and more.'
