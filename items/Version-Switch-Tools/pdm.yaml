@@ -1,0 +1,5 @@
+kind: Version-Switch-Tools
+owner: pdm-project
+repo: pdm
+desc: '一个现代的 Python 包管理器，支持 PEP 最新标准。'
+desc_en: 'A modern Python package manager that supports the latest PEP standards.'

@@ -1,0 +1,5 @@
+kind: 命令行工具
+owner: shadow1ng
+repo: fscan
+desc: '一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。'
+desc_en: 'A comprehensive internal network scanning tool that facilitates one click automation and all-round missed scanning.'

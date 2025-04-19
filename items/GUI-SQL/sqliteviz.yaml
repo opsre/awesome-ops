@@ -1,0 +1,5 @@
+kind: GUI-SQL
+owner: lana-k
+repo: sqliteviz
+desc: '一个单页离线优先 PWA，用于 SQLite 数据库或 CSV 文件的完全客户端可视化。'
+desc_en: 'A single page offline first PWA for full client-side visualization of SQLite databases or CSV files.'

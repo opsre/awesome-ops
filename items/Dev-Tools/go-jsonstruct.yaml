@@ -1,0 +1,5 @@
+kind: Dev-Tools
+owner: twpayne
+repo: go-jsonstruct
+desc: '一款能够将 JSON 内容转换为结构体的命令行工具。'
+desc_en: 'A command-line tool that can convert JSON content into a structure.'

@@ -1,0 +1,5 @@
+kind: Version-Switch-Tools
+owner: astral-sh
+repo: uv
+desc: '一个用 Rust 编写的极快的 Python 包和项目管理器。'
+desc_en: 'A very fast Python package and project manager written in Rust.'

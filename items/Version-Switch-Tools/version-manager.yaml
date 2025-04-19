@@ -1,0 +1,5 @@
+kind: Version-Switch-Tools
+owner: gvcgo
+repo: version-manager
+desc: '一款简单，跨平台，且经过良好设计的版本管理器，用于管理多种SDK以及其他工具。'
+desc_en: 'A simple, cross platform, and well-designed version manager for managing multiple SDKs and other tools.'

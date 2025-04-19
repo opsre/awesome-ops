@@ -1,0 +1,5 @@
+kind: 抓包工具
+owner: wanghongenpin
+repo: proxypin
+desc: '开源免费抓包工具，支持 Windows、Mac、Android、IOS、Linux 全平台系统。'
+desc_en: 'Open source and free packet capture tool, supporting all platforms including Windows, Mac, Android, IOS, and Linux.'

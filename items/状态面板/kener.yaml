@@ -1,0 +1,5 @@
+kind: 状态面板
+owner: rajnandan1
+repo: kener
+desc: '基于 Node.js 编写的状态页面工具，类似 uptime。'
+desc_en: 'A state page tool based on Node.js, similar to Uptime.'

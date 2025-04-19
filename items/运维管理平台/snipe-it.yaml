@@ -1,0 +1,5 @@
+kind: 运维管理平台
+owner: grokability
+repo: snipe-it
+desc: '一个开源的 IT 资产管理项目。基于 PHP 构建。'
+desc_en: 'An open-source IT asset management project. Built on PHP.'

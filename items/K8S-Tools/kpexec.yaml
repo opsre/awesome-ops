@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: ssup2
+repo: kpexec
+desc: '一个命令行工具，能够以root身份进入到集群的pod中，并且还提供了目标容器中缺少的调试工具。'
+desc_en: 'A command-line tool that can enter the cluster''s pods as root and also provides debugging tools that are missing from the target container.'

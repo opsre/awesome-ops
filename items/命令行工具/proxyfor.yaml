@@ -1,0 +1,5 @@
+kind: 命令行工具
+owner: sigoden
+repo: proxyfor
+desc: '一个强大而灵活的代理 CLI，用于捕获和检查 HTTP(S) 和 WS(S) 流量，带有 TUI 和 WebUI。'
+desc_en: 'A powerful and flexible proxy CLI for capturing and checking HTTP (S) and WS (S) traffic, with TUI and WebUI.'
