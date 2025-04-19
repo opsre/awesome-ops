@@ -2,4 +2,4 @@ kind: 数据管道
 owner: wgzhao
 repo: Addax
 desc: '一个基于阿里的 DataX 开发的多数据源同步工具。'
-desc_en: 'A multi data source synchronization tool developed based on Alibaba's DataX.'
+desc_en: 'A multi data source synchronization tool developed based on Alibaba''s DataX.'
