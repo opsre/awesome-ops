@@ -1,0 +1,5 @@
+kind: 终端工具
+owner: electerm
+repo: electerm
+desc: '开源终端/ssh/telnet/serialport/RDP/VNC/sftp 客户端（linux、mac、win）。'
+desc_en: 'Open-sourced terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win).'

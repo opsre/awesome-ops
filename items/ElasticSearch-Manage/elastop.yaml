@@ -1,0 +1,5 @@
+kind: ElasticSearch-Manage
+owner: acidvegas
+repo: elastop
+desc: '一个基于终端的仪表板，用于实时监控 Elasticsearch 集群。'
+desc_en: 'A terminal-based dashboard for real-time monitoring of Elasticsearch clusters.'

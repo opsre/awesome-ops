@@ -1,0 +1,5 @@
+kind: OpenLDAP
+owner: intoolswetrust
+repo: ldap-server
+desc: '一个 Java 语言编写的简单的 ldap 服务端。'
+desc_en: 'A simple LDAP server written in Java language.'

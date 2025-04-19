@@ -1,0 +1,5 @@
+kind: 命令行工具
+owner: snowdreamtech
+repo: gserver
+desc: '使用 gin 和 golang 构建的简单静态 HTTP 服务器。跨平台，零配置'
+desc_en: 'A simple static HTTP server built with gin and Golang. Cross-platform, zero configuration.'

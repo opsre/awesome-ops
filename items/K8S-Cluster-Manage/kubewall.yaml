@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: kubewall
+repo: kubewall
+desc: '一个轻量的 k8s 集群控制面板，一个二进制即可部署，用在本地使用还是不错的。'
+desc_en: 'A lightweight k8s cluster control panel, can be deployed with a single binary, and it is quite good for local use.'

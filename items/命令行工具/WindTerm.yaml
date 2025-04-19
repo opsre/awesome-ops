@@ -1,0 +1,5 @@
+kind: 命令行工具
+owner: kingToolbox
+repo: WindTerm
+desc: '免费的终端工具，SSH、Telnet、TCP、Shell、串行，支持多平台'
+desc_en: 'Free terminal tool,  SSH,  Telnet,  TCP,  Shell,  serial,  support multi-platform'

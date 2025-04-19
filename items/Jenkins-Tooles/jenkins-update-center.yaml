@@ -1,0 +1,5 @@
+kind: Jenkins-Tools
+owner: lework
+repo: jenkins-update-center
+desc: 'Jenkins 插件国内镜像源加速配置。'
+desc_en: 'Jenkins plugin domestic mirror source acceleration configuration.'

@@ -1,0 +1,5 @@
+kind: 数据管道
+owner: sqlchat
+repo: sqlchat
+desc: '一个基于聊天的 SQL 客户端，使用自然语言与数据库以沟通的方式，实现对数据库的查询、修改、新增、删除等操作。'
+desc_en: 'A chat-based SQL client that communicates with the database using natural language to perform operations such as querying, modifying, adding, and deleting data.'

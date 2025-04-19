@@ -1,0 +1,5 @@
+kind: 防火墙
+owner: samwafgo
+repo: SamWaf
+desc: '一款开源轻量级的网站应用防火墙'
+desc_en: 'An open-source lightweight website application firewall'

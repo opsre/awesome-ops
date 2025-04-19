@@ -1,0 +1,5 @@
+kind: Monitor
+owner: henrygd
+repo: beszel
+desc: '一个轻量级的服务器资源监控中心，具有历史数据、docker 统计信息和警报。'
+desc_en: 'A lightweight server resource monitoring center with historical data, Docker statistics, and alerts.'

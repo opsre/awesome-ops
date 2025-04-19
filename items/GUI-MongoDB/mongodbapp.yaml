@@ -1,0 +1,5 @@
+kind: GUI-MongoDB
+owner: gcollazo
+repo: mongodbapp
+desc: '一个将 MongoDB 服务端封装为一个 MacOS APP 的开源项目，安装之后，运行会启动一个 MongoDB 服务。'
+desc_en: 'An open-source project that encapsulates the MongoDB server into a MacOS APP, after installation, running it will start a MongoDB service.'

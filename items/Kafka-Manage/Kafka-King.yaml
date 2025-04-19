@@ -1,0 +1,5 @@
+kind: Kafka-Manage
+owner: Bronya0
+repo: Kafka-King
+desc: '一个现代、实用的kafka GUI客户端，支持多平台'
+desc_en: 'A modern and practical Kafka GUI client that supports multi-platforms.'

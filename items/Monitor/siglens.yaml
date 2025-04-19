@@ -1,0 +1,5 @@
+kind: Monitor
+owner: siglens
+repo: siglens
+desc: '一个部署简单，易于使用的日志和指标系统。'
+desc_en: 'A simple to deploy and easy-to-use logging and metrics system.'

@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: KusionStack
+repo: karpor
+desc: '智能化的 Kubernetes 平台，它为 Kubernetes 带来了高级的搜索、洞察和 AI 功能，本质上是一个 Kubernetes 可视化工具。'
+desc_en: 'The intelligent Kubernetes platform brings advanced search, insight, and AI capabilities to Kubernetes, essentially a Kubernetes visualization tool.'

@@ -1,0 +1,5 @@
+kind: 终端工具
+owner: TermoraDev
+repo: termora
+desc: '一个终端模拟器和 SSH 客户端，支持 Windows，macOS 和 Linux。'
+desc_en: 'A terminal emulator and SSH client, supporting Windows, macOS, and Linux.'

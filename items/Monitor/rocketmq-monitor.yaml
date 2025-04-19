@@ -1,0 +1,5 @@
+kind: Monitor
+owner: xxd763795151
+repo: rocketmq-monitor
+desc: 'rocketmq 开箱即用的大盘，以及 Prometheus 的告警规则。'
+desc_en: 'RocketMQ out-of-the-box dashboard, as well as Prometheus alert rules.'

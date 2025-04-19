@@ -1,0 +1,5 @@
+kind: 接口管理
+owner: mountain-loop
+repo: yaak
+desc: '一个桌面 API 客户端，用于与 REST、GraphQL、服务器发送事件 (SSE)、WebSocket 和 gRPC API 进行交互。'
+desc_en: 'A desktop API client for interacting with REST, GraphQL, Server-Sent Events (SSE), WebSocket, and gRPC APIs.'

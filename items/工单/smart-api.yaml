@@ -1,0 +1,5 @@
+kind: 工单
+owner: sunwenbo
+repo: smart-api
+desc: '基于 Go 语言开发的自定义开放式工单系统'
+desc_en: 'Custom open ticketing system developed based on Go language'
