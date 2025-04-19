@@ -1,0 +1,5 @@
+kind: 命令行工具
+owner: orf
+repo: gping
+desc: '以图形化方式展示 ping 的延迟状态的命令行工具'
+desc_en: 'Command line tool that pings and graphs'

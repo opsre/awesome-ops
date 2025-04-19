@@ -1,0 +1,5 @@
+kind: 终端工具
+owner: chenjiaxing6
+repo: TinySSH
+desc: '一个Electron开发的简洁ssh客户端'
+desc_en: 'A concise SSH client developed by Electron'

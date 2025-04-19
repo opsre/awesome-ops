@@ -1,0 +1,5 @@
+kind: Notification
+owner: megaease
+repo: easeprobe
+desc: "一个部署简单，易于配置，强大高效的服务健康检测告警工具，支持多种协议。"
+desc_en: "A simple to deploy, easy to configure, powerful and efficient service health detection and alarm tool that supports multiple protocols."

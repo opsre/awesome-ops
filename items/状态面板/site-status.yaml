@@ -1,0 +1,5 @@
+kind: 状态面板
+owner: imsyy
+repo: site-status
+desc: '一个基于 UptimeRobot API 的在线状态面板'
+desc_en: 'An online status panel based on the UptimeRobot API'

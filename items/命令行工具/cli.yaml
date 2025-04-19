@@ -1,0 +1,5 @@
+kind: 命令行工具
+owner: cli
+repo: cli
+desc: 'GitHub的 官方命令行交互工具'
+desc_en: 'GitHub''s official command line interaction tool'

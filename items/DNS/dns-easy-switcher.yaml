@@ -1,0 +1,5 @@
+kind: DNS
+owner: glinford
+repo: dns-easy-switcher
+desc: '一个简单的 macOS 菜单栏应用程序，允许您在不同的 DNS 提供商之间快速切换。'
+desc_en: 'A simple macOS menu bar application that allows you to quickly switch between different DNS providers.'

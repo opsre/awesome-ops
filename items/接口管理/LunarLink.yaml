@@ -1,0 +1,5 @@
+kind: 接口管理
+owner: tahitimoon
+repo: LunarLink
+desc: '基于 HttpRunner + Django + Vue + Element UI 的接口自动化测试平台。'
+desc_en: 'An interface automation testing platform based on HttpRunner+Django+Vue+Element UI.'

@@ -1,0 +1,5 @@
+kind: DNS
+owner: xxnuo
+repo: dns-benchmark
+desc: '一个批量 DNS 服务器基准测试工具，用于本地测量全世界的 DNS 服务器的可访问性和性能。'
+desc_en: 'A batch DNS server benchmarking tool for locally measuring the accessibility and performance of DNS servers worldwide.'

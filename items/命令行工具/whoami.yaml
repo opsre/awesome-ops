@@ -1,0 +1,5 @@
+kind: 命令行工具
+owner: traefik
+repo: whoami
+desc: '一个提供根据请求返回内容的调试工具。'
+desc_en: 'A debugging tool that provides content returned based on requests.'

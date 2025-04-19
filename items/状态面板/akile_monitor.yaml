@@ -1,0 +1,5 @@
+kind: 状态面板
+owner: akile-network
+repo: akile_monitor
+desc: '一个简洁的服务器监控面板，提供了一些基础信息的监控。'
+desc_en: 'A concise server monitoring panel that provides monitoring of some basic information.'

@@ -1,0 +1,5 @@
+kind: Wiki-Server
+owner: docmost
+repo: docmost
+desc: '一款开源的协作 Wiki 和文档软件。它是 Confluence 和 Notion 的开源替代品。'
+desc_en: 'An open-source collaboration Wiki and document software. It is an open-source alternative to Confluence and Notion.'

@@ -1,0 +1,5 @@
+kind: 命令行工具
+owner: matt-harvey
+repo: git_curate
+desc: '一个交互式删除 git 仓库本地分支的工具。'
+desc_en: 'An interactive tool for deleting local branches of a Git repository.'

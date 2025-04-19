@@ -1,0 +1,5 @@
+kind: 命令行工具
+owner: mr-karan
+repo: doggo
+desc: '一个使用 go 语言编写的类似 dig 的查询 dns 信息的命令行工具。'
+desc_en: 'A command-line tool written in the Go language, similar to dig, for querying DNS information.'

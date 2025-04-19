@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: CassInfra
+repo: KubeDoor
+desc: '基于K8S准入控制机制的微服务资源管控平台，多K8S统一监控、告警、展示最佳实践'
+desc_en: 'A microservices resource control platform based on the K8S admission control mechanism, unified monitoring, alerting, and best practices for display for multiple K8S.'

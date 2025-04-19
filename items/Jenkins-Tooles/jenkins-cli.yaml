@@ -1,0 +1,5 @@
+kind: Jenkins-Tools
+owner: kairyou
+repo: jenkins-cli
+desc: '一个用 Rust 编写的强大高效的 Jenkins CLI 工具。通过命令行简化 Jenkins 的项目部署。'
+desc_en: 'A powerful and efficient Jenkins CLI tool written in Rust. Simplify Jenkins project deployment through the command line.'

@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: weibaohui
+repo: k8m
+desc: '一款 AI 驱动的 Kubernetes Dashboard 轻量级控制台工具，专为简化集群管理设计。'
+desc_en: 'A lightweight console tool driven by AI for Kubernetes Dashboard, designed specifically for simplifying cluster management.'

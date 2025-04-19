@@ -1,0 +1,5 @@
+kind: 文件管理系统
+owner: sigoden
+repo: dufs
+desc: '一个独特的实用文件服务器，支持静态服务、上传、搜索、访问控制、webdav'
+desc_en: 'A unique practical file server that supports static services, uploading, searching, and access control webdav'

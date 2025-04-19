@@ -1,0 +1,5 @@
+kind: Monitor
+owner: Abdenasser
+repo: neohtop
+desc: '基于 Svelte、Rust 和 Tauri 构建的现代跨平台系统监视器。'
+desc_en: 'A modern cross-platform system monitor built with Svelte, Rust, and Tauri.'

@@ -1,0 +1,5 @@
+kind: 终端工具
+owner: gnmyt
+repo: Nexterm
+desc: '一个简易的堡垒机，支持 SSH、VNC 和 RDP 协议管理远程主机。同时支持 SFTP 管理功能，并且支持服务应用的简单管理。'
+desc_en: 'A simple bastion host that supports SSH, VNC, and RDP protocols for managing remote hosts. Simultaneously supporting SFTP management function and simple management of service applications.'

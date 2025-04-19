@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: weibaohui
+repo: kom
+desc: '一个用于 Kubernetes 操作的工具，SDK级的kubectl、client-go的使用封装。并且支持作为管理k8s 的 MCP server。'
+desc_en: 'A tool for Kubernetes operations, a usage encapsulation of SDK-level kubectl and client-go. And it supports acting as an MCP server for managing k8s.'

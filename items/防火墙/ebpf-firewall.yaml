@@ -1,0 +1,5 @@
+kind: 防火墙
+owner: danger-dream
+repo: ebpf-firewall
+desc: '基于 eBPF 技术的高性能网络防火墙系统，具有实时入站流量监控、规则过滤和黑名单管理等功能。'
+desc_en: 'A high-performance network firewall system based on eBPF technology, featuring real-time inbound traffic monitoring, rule filtering, and blacklist management functions.'

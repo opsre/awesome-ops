@@ -1,0 +1,5 @@
+kind: 软件工具
+owner: stealthcopter
+repo: AndroidNetworkTools
+desc: '一款能够在安卓手机上执行 ping 等操作的工具。'
+desc_en: 'A tool that can perform ping and other operations on Android phones.'

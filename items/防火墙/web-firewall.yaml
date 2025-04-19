@@ -1,0 +1,5 @@
+kind: 防火墙
+owner: moreKing
+repo: web-firewall
+desc: '基于 golang+vue3 开发的 Web Linux 防火墙，可以在 Linux 系统中基于 nfatables 用于替代 firewalld 工具。'
+desc_en: 'A Web Linux firewall developed based on golang+vue3 can be used in Linux systems as an alternative to firewall tools using nfatables.'

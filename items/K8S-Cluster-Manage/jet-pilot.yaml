@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: unxsist
+repo: jet-pilot
+desc: '一款 k8s 集群管理客户端，提供资源查看，编辑，日志查看，进入 shell 等能力。'
+desc_en: 'A k8s cluster management client that provides capabilities such as resource viewing, editing, log viewing, and entering the shell.'

@@ -1,0 +1,5 @@
+kind: Email
+owner: stalwartlabs
+repo: mail-server
+desc: '一款开源邮件服务器解决方案，支持 JMAP、IMAP4、POP3 和 SMTP，并具有多种现代功能。'
+desc_en: 'An open-source email server solution that supports JMAP, IMAP4, POP3, and SMTP, and has various modern features.'

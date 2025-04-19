@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: caoyingjunz
+repo: pixiu
+desc: '一个面对 k8s 集群从创建集群，到业务开发到服务部署的全流程管控平台。'
+desc_en: 'A full-process control platform for managing a k8s cluster, from cluster creation to business development and service deployment.'

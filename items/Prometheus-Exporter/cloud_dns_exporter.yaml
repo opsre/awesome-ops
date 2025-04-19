@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: opsre
+repo: cloud_dns_exporter
+desc: "自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为Prometheus Metrics。"
+desc_en: "Automatically obtain the domain name and resolution list of DNS providers, as well as the certificate information for each domain name resolution, and export it as Prometheus Metrics."

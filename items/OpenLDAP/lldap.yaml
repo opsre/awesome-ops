@@ -1,0 +1,5 @@
+kind: OpenLDAP
+owner: lldap
+repo: lldap
+desc: '一个基于 Rust 编写的轻量 ldap 服务端，提供了简单的 UI 界面，注意，它没有实现完整的 ldap。'
+desc_en: 'A lightweight LDAP server based on Rust, providing a simple UI interface. Note that it does not implement complete LDAP.'

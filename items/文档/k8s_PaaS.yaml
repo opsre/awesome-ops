@@ -1,0 +1,5 @@
+kind: 文档
+owner: ben1234560
+repo: k8s_PaaS
+desc: '基于Kubernetes一步步部署成PaaS/DevOps的教程文档'
+desc_en: 'Tutorial document on step-by-step deployment of PaaS/DevOps based on Kubernetes'

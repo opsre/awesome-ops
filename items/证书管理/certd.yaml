@@ -1,0 +1,5 @@
+kind: 证书管理
+owner: certd
+repo: certd
+desc: '开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署'
+desc_en: 'Open source SSL certificate management tool; Fully automated certificate application, update, and renewal; Wildcard certificate, pan domain certificate application; Automated deployment of certificates to Alibaba Cloud, Tencent Cloud, mainframes, Qunhui, and Baota; HTTPS certificate, PFX certificate, DER certificate, TLS certificate, nginx certificate automatic renewal automatic deployment'

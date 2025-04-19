@@ -1,0 +1,5 @@
+kind: 命令行工具
+owner: Orange-OpenSource
+repo: hurl
+desc: '一个 curl 工具，支持你在文本内定义请求，然后执行它。有详细的使用说明。'
+desc_en: 'A curl tool that supports you defining requests within text and then executing them. It includes detailed usage instructions.'

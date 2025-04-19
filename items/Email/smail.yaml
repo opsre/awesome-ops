@@ -1,0 +1,5 @@
+kind: Email
+owner: akazwz
+repo: smail
+desc: '使用 cloudflare worker 快速搭建临时邮箱服务'
+desc_en: 'Quickly set up a temporary email service using CloudFlare Worker'

@@ -1,0 +1,5 @@
+kind: 状态面板
+owner: TwiN
+repo: gatus
+desc: '一个面向开发人员的健康仪表板，它使您能够使用 HTTP、ICMP、TCP 甚至 DNS 查询来监控您的服务'
+desc_en: 'A health dashboard for developers that allows you to monitor your services using HTTP, ICMP, TCP, and even DNS queries.'

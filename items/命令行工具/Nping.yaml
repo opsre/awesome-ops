@@ -1,0 +1,5 @@
+kind: 命令行工具
+owner: hanshuaikang
+repo: Nping
+desc: '一个基于 Rust 开发的终端可视化 Ping 工具, 支持多地址并发 Ping, 可视化图表展示, 数据实时更新等特性'
+desc_en: 'A terminal visualization Ping tool developed based on Rust, supporting multi-address concurrent Ping, with features such as visual charts and real-time data updates.'
