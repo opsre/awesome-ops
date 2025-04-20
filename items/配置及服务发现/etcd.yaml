@@ -1,5 +1,5 @@
 kind: 配置及服务发现
-owner: hashicorp
+owner: etcd-io
 repo: etcd
 desc: '用于分布式系统中最关键数据的分布式可靠键值存储'
 desc_en: 'Distributed reliable key value storage for the most critical data in distributed systems'
