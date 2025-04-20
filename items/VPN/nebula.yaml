@@ -1,0 +1,5 @@
+kind: VPN
+owner: slackhq
+repo: nebula
+desc: '一款可扩展的覆盖网络工具，专注于性能、简便性和安全性。'
+desc_en: 'A scalable overlay network tool that focuses on performance, simplicity, and security.'

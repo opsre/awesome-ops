@@ -1,0 +1,5 @@
+kind: 配置及服务发现
+owner: apache
+repo: zookeeper
+desc: '一个集中式服务，用于维护配置信息、命名、提供分布式同步以及提供组服务。'
+desc_en: 'A centralized service used for maintaining configuration information, naming, providing distributed synchronization, and offering group services.'

@@ -1,0 +1,5 @@
+kind: VPN
+owner: qdm12
+repo: gluetun
+desc: 'VPN 客户端位于一个薄型 Docker 容器中，适用于多个 VPN 提供商，用 Go 编写，使用 OpenVPN 或 Wireguard、TLS 上的 DNS，并内置了一些代理服务器。'
+desc_en: 'The VPN client is located in a thin Docker container, suitable for multiple VPN providers, written in Go, using DNS over OpenVPN or Wireguard, TLS, and built-in proxy servers.'

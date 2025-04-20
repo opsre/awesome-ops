@@ -1,0 +1,5 @@
+kind: 命令行工具
+owner: nicolargo
+repo: glances
+desc: '一款开源的跨平台系统监控工具。它可以实时监控系统的各个方面，例如 CPU、内存、磁盘、网络使用情况等。'
+desc_en: 'An open-source cross platform system monitoring tool. It can monitor various aspects of the system in real-time, such as CPU, memory, disk, network usage, etc.'

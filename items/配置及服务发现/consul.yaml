@@ -1,0 +1,5 @@
+kind: 配置及服务发现
+owner: hashicorp
+repo: consul
+desc: '一种分布式、高可用性和数据中心感知的解决方案，用于跨动态分布式基础设施连接和配置应用程序。'
+desc_en: 'A distributed, high availability, and data center aware solution for connecting and configuring applications across dynamic distributed infrastructure.'

@@ -1,0 +1,5 @@
+kind: VPN
+owner: DefGuard
+repo: defguard
+desc: '一款真正的零信任 WireGuard® VPN，具备双重身份验证 (2FA)/多重身份验证 (MFA)'
+desc_en: 'A true zero trust WireGuard ®  VPN， Capable of two factor authentication (2FA)/multiple factor authentication (MFA)'

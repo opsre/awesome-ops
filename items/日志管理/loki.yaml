@@ -1,4 +1,4 @@
-kind: Monitor
+kind: 日志管理
 owner: grafana
 repo: loki
 desc: '水平可扩展、高可用、多租户日志聚合系统。它的设计非常经济高效且易于操作。它不索引日志的内容，而是为每个日志流建立一组标签。'

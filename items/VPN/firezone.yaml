@@ -1,0 +1,5 @@
+kind: VPN
+owner: firezone
+repo: firezone
+desc: '一个开源平台，可安全地管理各种规模组织的远程访问。与大多数 VPN 不同，Firezone 采用细粒度、最小权限的访问管理方法。'
+desc_en: 'An open-source platform that securely manages remote access for organizations of all sizes. Unlike most VPNs, Firezone adopts a fine-grained, least privilege access management approach.'

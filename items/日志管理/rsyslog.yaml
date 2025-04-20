@@ -1,0 +1,5 @@
+kind: 日志管理
+owner: rsyslog
+repo: rsyslog
+desc: '一个速度极快的日志处理系统。'
+desc_en: 'A very fast log processing system.'

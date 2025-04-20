@@ -1,4 +1,4 @@
-kind: 配置中心
+kind: 配置及服务发现
 owner: alibaba
 repo: nacos
 desc: '一个易于使用的动态服务发现、配置和服务管理平台，用于构建云原生应用程序。'

@@ -1,0 +1,5 @@
+kind: ElasticSearch-Manage
+owner: elastic
+repo: beats
+desc: 'Elasticsearch 和 Logstash 的轻量级传输器'
+desc_en: 'Lightweight Transporter for Elasticsearch and Logstash'
