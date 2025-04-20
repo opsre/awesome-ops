@@ -1,0 +1,5 @@
+kind: 日志管理
+owner: allinurl
+repo: goaccess
+desc: '一款开源的实时 Web 日志分析器和交互式查看器，可在 unix 系统的 终端或浏览器中运行。'
+desc_en: 'An open-source real-time web log analyzer and interactive viewer that can run on Unix system terminals or browsers.'

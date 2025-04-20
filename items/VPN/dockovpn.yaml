@@ -1,0 +1,5 @@
+kind: VPN
+owner: dockovpn
+repo: dockovpn
+desc: '一个开箱即用、无状态、无需持久存储的 VPN服务器 Docker 镜像，可以在几秒钟内启动。'
+desc_en: 'A Docker image of a VPN server that is ready to use, stateless, and does not require persistent storage, and can be launched in seconds.'

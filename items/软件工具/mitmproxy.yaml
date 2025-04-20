@@ -1,0 +1,5 @@
+kind: 软件工具
+owner: mitmproxy
+repo: mitmproxy
+desc: '一个交互式的、支持 SSL/TLS 的拦截代理，具有用于 HTTP/1、HTTP/2 和 WebSockets 的控制台界面。'
+desc_en: 'An interactive SSL/TLS enabled interception proxy with a console interface for HTTP/1, HTTP/2, and WebSocket.'

@@ -1,0 +1,5 @@
+kind: RPM
+owner: jordansissel
+repo: fpm
+desc: '轻松又合理地为多个平台（deb、rpm 等）构建软件包。'
+desc_en: 'Easily and reasonably build software packages for multiple platforms (deb, rpm, etc.).'

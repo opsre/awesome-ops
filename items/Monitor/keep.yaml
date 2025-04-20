@@ -1,0 +1,5 @@
+kind: Monitor
+owner: keephq
+repo: keep
+desc: '开源 AIOps 和警报管理平台'
+desc_en: 'Open source AIOps and Alert Management Platform'

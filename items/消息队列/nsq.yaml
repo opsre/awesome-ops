@@ -1,0 +1,5 @@
+kind: 消息队列
+owner: nsqio
+repo: nsq
+desc: '一个实时分布式消息传递平台，旨在大规模运行，每天处理数十亿条消息。'
+desc_en: 'A real-time distributed messaging platform designed for large-scale operation, processing billions of messages per day.'

@@ -1,0 +1,5 @@
+kind: 日志管理
+owner: fluent
+repo: fluentd
+desc: '从各种数据源收集事件，并将其写入文件、RDBMS、NoSQL、IaaS、SaaS、Hadoop 等。'
+desc_en: 'Collect events from various data sources and write them to files, RDBMS, NoSQL, IaaS, SaaS, Hadoop, etc.'
