@@ -1,0 +1,5 @@
+kind: PaaS
+owner: moghtech
+repo: komodo
+desc: '一种在多台服务器上构建和部署软件的工具。'
+desc_en: 'A tool for building and deploying software on multiple servers.'
