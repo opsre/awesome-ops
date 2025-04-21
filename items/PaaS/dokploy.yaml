@@ -1,0 +1,5 @@
+kind: PaaS
+owner: Dokploy
+repo: dokploy
+desc: '一个免费的、自托管的平台即服务 (PaaS)，可简化应用程序和数据库的部署和管理。'
+desc_en: 'A free, self hosted Platform-as-a-Service (PaaS) that simplifies the deployment and management of applications and databases.'
