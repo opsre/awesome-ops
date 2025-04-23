@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: lensapp
+repo: lens
+desc: 'Lens 是一个开源的 Kubernetes IDE（集成开发环境），提供直观的界面用于管理、监控和调试 Kubernetes 集群。'
+desc_en: 'Lens is an open-source Kubernetes IDE (Integrated Development Environment) that provides an intuitive interface for managing, monitoring, and debugging Kubernetes clusters.'
