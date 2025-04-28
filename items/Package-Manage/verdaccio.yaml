@@ -1,0 +1,5 @@
+kind: Package-Manage
+owner: verdaccio
+repo: verdaccio
+desc: '一个简单易用、无需配置的本地私有 npm 仓库。'
+desc_en: 'A simple and easy-to-use local private npm repository that does not require configuration.'

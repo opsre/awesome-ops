@@ -1,0 +1,5 @@
+kind: 命令行工具
+owner: Zouuup
+repo: landrun
+desc: '使用Landlock在一个安全的、非特权的沙盒中运行任何Linux进程。'
+desc_en: 'Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.'
