@@ -1,4 +1,4 @@
-kind: Docker-Tools
+kind: Docker-UI
 owner: amir20
 repo: dozzle
 desc: ' Dozzle 是一个小型轻量级应用程序，具有基于 Web 的界面来监视 Docker 日志。它不存储任何日志文件。它仅用于实时监控您的容器日志。 '

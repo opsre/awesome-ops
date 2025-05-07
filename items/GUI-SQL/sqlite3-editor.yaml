@@ -1,0 +1,5 @@
+kind: GUI-SQL
+owner: yy0931
+repo: sqlite3-editor
+desc: '一款 vscode 插件，用于管理 sqlite，它的特色能力是不仅能够浏览数据，还能够编辑数据，且完全免费。'
+desc_en: 'A VSCode plugin for managing SQLite, featuring the ability to not only browse but also edit data, and it is completely free.'

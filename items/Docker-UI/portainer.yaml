@@ -1,4 +1,4 @@
-kind: Docker-Tools
+kind: Docker-UI
 owner: portainer
 repo: portainer
 desc: '让 Docker 和 Kubernetes 的管理变得简单。'

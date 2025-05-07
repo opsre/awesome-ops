@@ -1,4 +1,4 @@
-kind: Docker-Tools
+kind: Docker-UI
 owner: louislam
 repo: dockge
 desc: '一个时髦、易于使用且响应迅速的自托管式 docker compose.yaml 管理器'

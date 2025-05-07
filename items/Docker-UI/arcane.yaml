@@ -1,0 +1,5 @@
+kind: Docker-UI
+owner: ofkm
+repo: arcane
+desc: '使用 Typescript 和 SvelteKit 编写的简洁优雅的 Docker 管理 UI'
+desc_en: 'Simple and Elegant Docker Management UI written in Typescript and SvelteKit'
