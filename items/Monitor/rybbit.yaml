@@ -1,0 +1,5 @@
+kind: Monitor
+owner: rybbit-io
+repo: rybbit
+desc: 'Google Analytics 的现代开源且隐私友好的替代方案。只需几分钟即可完成设置，并且使用起来非常直观。'
+desc_en: 'A modern, open-source, and privacy friendly alternative to Google Analytics. It only takes a few minutes to complete the setup and is very intuitive to use.'

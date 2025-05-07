@@ -1,0 +1,5 @@
+kind: Docker-UI
+owner: donknap
+repo: dpanel
+desc: 'Docker 可视化面板系统，提供完善的 docker 管理功能。'
+desc_en: 'The Docker visualization panel system provides comprehensive Docker management functions.'

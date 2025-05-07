@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: kubetail-org
+repo: kubetail
+desc: '一个通用的 Kubernetes 日志仪表板，可以暴漏在浏览器当中查看。'
+desc_en: 'A universal Kubernetes log dashboard that can be exposed and viewed in the browser.'
