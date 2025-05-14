@@ -1,0 +1,5 @@
+kind: Dev-Tools
+owner: xpf0000
+repo: FlyEnv
+desc: 'FlyEnv 提供了一个完整的运行环境，帮助用户开发和调试诸如 Laravel、WordPress、Yii2、FastAdmin、NestJS、SpringBoot、Gin、Beego、Django、Flask 等应用程序。'
+desc_en: 'FlyEnv provides a complete runtime environment to assist users in developing and debugging tasks such as Laravel、WordPress、Yii2、FastAdmin、NestJS、SpringBoot、Gin、Beego、Django、Flask  Waiting for the application.'

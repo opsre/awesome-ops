@@ -1,0 +1,5 @@
+kind: OpenResty
+owner: Safe3
+repo: openresty-manager
+desc: '简单易用、功能强大、漂亮的OpenResty管理器'
+desc_en: 'Easy to use, powerful, and beautiful OpenResty manager'

@@ -1,0 +1,5 @@
+kind: 状态面板
+owner: operacle
+repo: checkcle
+desc: '提供实时服务器和服务正常运行时间监控、事件、多渠道告警能力。'
+desc_en: 'Provide real-time monitoring of server and service uptime, event management, and multi-channel alert capabilities.'
