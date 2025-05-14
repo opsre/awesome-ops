@@ -1,0 +1,5 @@
+kind: 状态面板
+owner: star7th
+repo: coolmonitor
+desc: '一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等'
+desc_en: 'A high-value monitoring tool that supports website monitoring/interface monitoring/HTTP certificate monitoring, etc'

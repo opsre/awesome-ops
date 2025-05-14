@@ -1,0 +1,5 @@
+kind: 证书管理
+owner: allinssl
+repo: allinssl
+desc: '一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。'
+desc_en: 'A SSL certificate lifecycle management tool that integrates certificate application, management, deployment, and monitoring.'
