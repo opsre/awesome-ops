@@ -788,8 +788,6 @@
 | [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) | NOASSERTION|6817|2017-02-23|2025-05-12 | 面向远程 Kubernetes 或 OpenShift 集群的本地开发工具 |
 | [jrhouston/tfk8s](https://github.com/jrhouston/tfk8s) | MIT|1017|2020-04-28|2024-01-17 | 一个用于将 Kubernetes 的 YAML 清单转换为 Terraform 的 HCL 的工具。 |
 | [1Panel-dev/webkubectl](https://github.com/1Panel-dev/webkubectl) | Apache-2.0|872|2019-10-14|2024-08-13 |  Web Kubectl 帮助您管理 kubernetes 集群的凭据，并在 Web 浏览器中运行 kubectl 命令，从而不必在本地 PC 或其他服务器上安装 kubectl，并且 Web Kubectl 也适用于团队多人同时使用，此外还可以使用 API 集成到您自己的应用中。 |
-| [meshery/meshery](https://github.com/meshery/meshery) | Apache-2.0 | 7.2k | 2018-12-01 | 2025-06-04 | 一个自助式工程平台和开源云原生管理器，用于设计和管理所有基于 Kubernetes 的基础设施和应用程序（支持多云）。 |
-| [kanvas](https://kanvas.new) | Apache-2.0 | 1.5k | 2023-06-15 | 2025-06-04 | Kanvas 是一个基于 Web 的可视化 Kubernetes 设计工具，支持图形化创建和管理 Kubernetes 资源，降低了复杂性，并提升了团队协作效率，适用于开发者与平台工程师的日常使用。 |
 
 <div align="right">
 

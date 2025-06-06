@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: meshery
+repo: meshery 
+desc: '一个开源的云原生管理器，可用于设计和管理所有基于 Kubernetes 的基础设施和应用程序（支持多云环境)。'
+desc_en: 'A open source cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud).'
