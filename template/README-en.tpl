@@ -52,3 +52,9 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 </div>
 
 {{end}}
+
+## 🎉 Thank you for the sponsorship.
+
+This project's CDN acceleration and security protection is sponsored by Tencent EdgeOne.
+
+[![Tencent EdgeOne](https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png)](https://edgeone.ai/zh?from=eryajf)
