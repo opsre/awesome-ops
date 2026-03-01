@@ -1,0 +1,5 @@
+kind: 证书管理
+owner: brancogao
+repo: ssl-certificate-monitor
+desc: '开源的 SSL/TLS 证书到期监控工具，支持多域名监控、到期提醒，基于 Cloudflare Workers 部署。'
+desc_en: 'Open-source SSL/TLS certificate expiry monitoring tool with multi-domain monitoring and expiration alerts, deployed on Cloudflare Workers.'
