@@ -1153,6 +1153,7 @@
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [istio/istio](https://github.com/istio/istio) | Apache-2.0|37601|2016-11-18|2025-11-07 | Istio 是一个开源服务网格，它透明地分层到现有的分布式应用程序上。 |
+| [meshery/meshery](https://github.com/meshery/meshery) | Apache-2.0 | 9405 | 2018-11-14 | 2025-11-07 | An open-source, cloud native manager for designing and managing all Kubernetes-based infrastructure and applications. |
 
 <div align="right">
 
