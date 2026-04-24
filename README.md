@@ -669,7 +669,7 @@
 ## K8S-Cluster-Manage
 
 <p align="right">
-📥 此类目收录项目 25 个。
+📥 此类目收录项目 26 个。
 </p>
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
@@ -698,6 +698,7 @@
 | [caoyingjunz/pixiu](https://github.com/caoyingjunz/pixiu) | N/A|510|2022-08-05|2025-08-02 | 一个面对 k8s 集群从创建集群，到业务开发到服务部署的全流程管控平台。 |
 | [goodrain/rainbond](https://github.com/goodrain/rainbond) | NOASSERTION|5959|2017-11-05|2025-11-06 | k8s 集群管理应用平台 |
 | [rancher/rancher](https://github.com/rancher/rancher) | Apache-2.0|24839|2014-11-07|2025-11-07 | 一个开源容器管理平台，专为在生产中部署容器的组织而构建。Rancher 让您可以轻松地在任何地方运行 Kubernetes、满足 IT 要求并为 DevOps 团队提供支持 |
+| [kubestellar/console](https://github.com/kubestellar/console) | Apache-2.0|60|2026-01-16|2026-04-24 | AI 驱动的多集群 Kubernetes 管理仪表板，支持工作负载监控、绑定策略和跨 KubeStellar 集群的统一视图 |
 | [Qihoo360/wayne](https://github.com/Qihoo360/wayne) | NOASSERTION|3714|2018-11-13|2022-05-31 | 一个通用的、基于Web的Kubernetes多集群管理平台。通过可视化Kubernetes对象模板编辑，降低服务访问成本。拥有完善的权限管理体系，适应多租户场景，是适合企业级集群的发布平台。 |
 
 <div align="right">
