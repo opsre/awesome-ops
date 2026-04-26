@@ -789,7 +789,7 @@
 | [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner) | Apache-2.0|1437|2019-03-15|2024-06-30 | 简单的 Kubernetes 实时仪表板和管理工具 |
 | [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) | Apache-2.0|7192|2017-02-23|2026-04-21 | 面向远程 Kubernetes 或 OpenShift 集群的本地开发工具 |
 | [jrhouston/tfk8s](https://github.com/jrhouston/tfk8s) | MIT|1056|2020-04-28|2024-01-17 | 一个用于将 Kubernetes 的 YAML 清单转换为 Terraform 的 HCL 的工具。 |
-| [kubestellar/console](https://github.com/kubestellar/console) | Apache-2.0|67|2024-06-01|2026-04-26 | 多集群 Kubernetes 管理仪表板，具备 AI 驱动的运维能力、实时可观测性和 CNCF 项目集成，支持边缘和云集群。 |
+| [kubestellar/console](https://github.com/kubestellar/console) | Apache-2.0|67|2026-01-16|2026-04-26 | 多集群 Kubernetes 管理仪表板，具备 AI 驱动的运维能力、实时可观测性和 CNCF 项目集成，支持边缘和云集群。 |
 | [1Panel-dev/webkubectl](https://github.com/1Panel-dev/webkubectl) | Apache-2.0|882|2019-10-14|2025-12-31 |  Web Kubectl 帮助您管理 kubernetes 集群的凭据，并在 Web 浏览器中运行 kubectl 命令，从而不必在本地 PC 或其他服务器上安装 kubectl，并且 Web Kubectl 也适用于团队多人同时使用，此外还可以使用 API 集成到您自己的应用中。 |
 
 <div align="right">
@@ -1972,7 +1972,7 @@
 | [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) | MIT|13534|2014-08-23|2026-04-24 | Ansible 的现代化用户界面 |
 | [grokability/snipe-it](https://github.com/grokability/snipe-it) | AGPL-3.0|13687|2013-11-12|2026-04-23 | 一个开源的 IT 资产管理项目。基于 PHP 构建。 |
 | [openspug/spug](https://github.com/openspug/spug) | AGPL-3.0|10985|2018-01-31|2026-03-08 | 轻量级无 Agent 的自动化运维平台 |
-| [opentdp/tdp-cloud](https://github.com/opentdp/tdp-cloud) | GPL-3.0|403|2022-05-29|2024-06-01 | 土豆片多云资源管理系统 |
+| [opentdp/tdp-cloud](https://github.com/opentdp/tdp-cloud) | GPL-3.0|403|2022-05-29|2026-01-16 | 土豆片多云资源管理系统 |
 | [team-ide/teamide](https://github.com/team-ide/teamide) | Apache-2.0|781|2021-11-30|2025-09-26 | 集成 MySQL、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch 等管理工具 |
 | [qingwave/weave](https://github.com/qingwave/weave) | Apache-2.0|603|2019-12-09|2026-01-15 | 一个基于Go &#43; Vue3实现的Web应用模板，支持前后端，拥有完整的认证、存储、Restful API、应用管理（docker &amp; kubernetes）功能 |
 | [test-instructor/yangfan](https://github.com/test-instructor/yangfan) | Apache-2.0|149|2022-07-23|2026-02-05 | 一款高效、可靠的自动化测试平台，旨在帮助团队提升测试效率、降低测试成本 |
