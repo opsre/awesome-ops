@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: kubestellar
+repo: console
+desc: '多集群 Kubernetes 管理仪表板，具备 AI 驱动的运维能力、实时可观测性和 CNCF 项目集成，支持边缘和云集群。'
+desc_en: 'Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.'
