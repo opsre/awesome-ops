@@ -789,6 +789,7 @@
 | [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner) | Apache-2.0|1437|2019-03-15|2024-06-30 | 简单的 Kubernetes 实时仪表板和管理工具 |
 | [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) | Apache-2.0|7192|2017-02-23|2026-04-21 | 面向远程 Kubernetes 或 OpenShift 集群的本地开发工具 |
 | [jrhouston/tfk8s](https://github.com/jrhouston/tfk8s) | MIT|1056|2020-04-28|2024-01-17 | 一个用于将 Kubernetes 的 YAML 清单转换为 Terraform 的 HCL 的工具。 |
+| [kubestellar/console](https://github.com/kubestellar/console) | Apache-2.0|67|2024-06-01|2026-04-26 | 多集群 Kubernetes 管理仪表板，具备 AI 驱动的运维能力、实时可观测性和 CNCF 项目集成，支持边缘和云集群。 |
 | [1Panel-dev/webkubectl](https://github.com/1Panel-dev/webkubectl) | Apache-2.0|882|2019-10-14|2025-12-31 |  Web Kubectl 帮助您管理 kubernetes 集群的凭据，并在 Web 浏览器中运行 kubectl 命令，从而不必在本地 PC 或其他服务器上安装 kubectl，并且 Web Kubectl 也适用于团队多人同时使用，此外还可以使用 API 集成到您自己的应用中。 |
 
 <div align="right">
