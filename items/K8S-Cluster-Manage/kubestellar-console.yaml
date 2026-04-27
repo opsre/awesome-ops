@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: kubestellar
+repo: console
+desc: '多集群 Kubernetes 仪表板，集成 AI 运维能力，支持跨集群实时可观测性，CNCF 沙箱项目。'
+desc_en: 'Multi-cluster Kubernetes dashboard with AI-powered operations and real-time observability across clusters. CNCF Sandbox project.'
