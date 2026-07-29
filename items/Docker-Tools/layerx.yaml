@@ -1,0 +1,5 @@
+kind: Docker-Tools
+owner: deveshctl
+repo: layerx
+desc: '交互式 TUI，用于探索容器镜像分层内容，支持 Docker、Podman 和 OCI 归档，可检测浪费字节并对 CI 流水线进行效率门控。'
+desc_en: 'Interactive TUI for exploring container image layers; supports Docker, Podman, and OCI archives; browse file trees with diff colouring, detect wasted bytes, and gate CI pipelines on image efficiency.'
