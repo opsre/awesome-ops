@@ -1,0 +1,5 @@
+kind: CICD
+owner: huangchengsir
+repo: pipewright
+desc: '轻量自托管 CI/CD·部署·运维一体化平台，单 Go 二进制零依赖，提供可视化 DAG 流水线、SSH 免 Agent 多服务器部署、容器管理、Web 终端与一键自更新'
+desc_en: 'Lightweight self-hosted CI/CD, deployment and ops platform in a single Go binary, with visual DAG pipelines, agentless SSH deployment, container management, web terminal and one-click self-update'
