@@ -1,0 +1,5 @@
+kind: 项目管理
+owner: Noveum
+repo: orbit
+desc: '免费开源的实时任务管理工具，支持问题、项目、迭代、文档、文件和 OAuth 认证的 MCP 服务。'
+desc_en: 'Free, open-source realtime task management with issues, projects, sprints, docs, files and an OAuth-authenticated MCP server.'
