@@ -1,0 +1,5 @@
+kind: CMDB
+owner: likpi
+repo: likpi-cmdb
+desc: Likpi CMDB 企业级 IaC（基础设施即代码）部署
+desc_en: Likpi CMDB Enterprise IaC Deployments (Infrastructure as Code)
