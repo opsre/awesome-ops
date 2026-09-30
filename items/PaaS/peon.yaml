@@ -1,0 +1,5 @@
+kind: PaaS
+owner: Peon-sh
+repo: Peon
+desc: '开源、可自托管的 Docker PaaS，用于在自有服务器上部署 Git 应用、Compose、数据库和静态站点。'
+desc_en: 'Open-source self-hosted Docker PaaS for Git apps, Compose stacks, databases, and static sites on your own servers.'
