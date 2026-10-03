@@ -1,0 +1,5 @@
+kind: 项目管理
+owner: tale-project
+repo: tale
+desc: '面向团队和 AI 智能体的开源项目工作区，支持任务委派、持久化沙箱和成果审核。'
+desc_en: 'Open-source project workspace for teams and AI agents, with task delegation, persistent agent sandboxes, and deliverable review.'
