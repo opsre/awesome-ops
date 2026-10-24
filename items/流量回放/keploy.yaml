@@ -1,0 +1,5 @@
+kind: 流量回放
+owner: keploy
+repo: keploy
+desc: '捕获真实 API 流量并回放为测试用例，自动生成依赖 Mock，在隔离沙箱中运行'
+desc_en: 'Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing'
