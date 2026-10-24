@@ -1,0 +1,5 @@
+kind: GUI-SQL
+owner: libredb
+repo: libredb-studio
+desc: '自托管的浏览器端 SQL IDE，支持十六种数据库引擎，提供官方 Helm Chart 和 Operator'
+desc_en: 'Self-hosted browser-based SQL IDE for cloud-native teams, sixteen database engines, official Helm chart and operator'
