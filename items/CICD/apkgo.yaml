@@ -1,0 +1,5 @@
+kind: CICD
+owner: KevinGong2013
+repo: apkgo
+desc: '一行命令将 APK 并发发布到国内主流安卓应用商店，支持鸿蒙；可接 CI，配套托管版 apkgo cloud 也支持 iOS'
+desc_en: 'CLI to concurrently publish one APK to major Chinese Android app stores and HarmonyOS; CI-friendly, with hosted apkgo cloud that also supports iOS'
