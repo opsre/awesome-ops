@@ -1,0 +1,5 @@
+kind: 接口管理
+owner: Perruer
+repo: yapix
+desc: 'YApi 的持续维护版本：修复 Mock 脚本沙箱逃逸、token 伪造等安全问题，支持 Node.js 24、MongoDB 4.4–8 和 Manifest V3 浏览器扩展，可直接使用已有的 YApi 数据库'
+desc_en: 'Maintained continuation of YApi: fixes the mock-script sandbox escape and forgeable tokens, runs on Node.js 24 and MongoDB 4.4–8, ships a Manifest V3 browser extension, and works with existing YApi databases'
