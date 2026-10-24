@@ -1,5 +1,5 @@
 kind: Monitor
-owner: keyval-dev
+owner: odigos-io
 repo: odigos
 desc: '分布式跟踪，无需更改代码。🚀 使用 OpenTelemetry 和 eBPF 即时监控任何应用程序'
 desc_en: 'Distributed tracing without code changes. 🚀 Monitor any application instantly with OpenTelemetry and eBPF'

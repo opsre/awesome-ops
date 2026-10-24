@@ -1,5 +1,5 @@
 kind: K8S-Cluster-Manage
-owner: headlamp-k8s
+owner: kubernetes-sigs
 repo: headlamp
 desc: 'Headlamp 是一个易于使用且可扩展的 Kubernetes Web UI。'
 desc_en: 'Headlamp is an easy-to-use and extensible Kubernetes web UI.'

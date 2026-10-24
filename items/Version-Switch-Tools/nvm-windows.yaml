@@ -1,5 +1,5 @@
 kind: Version-Switch-Tools
-owner: coreybutler
-repo: nvm-windows
+owner: nvm-windows
+repo: nvm
 desc: '用于 Windows 系统中多个 Node 版本的管理与切换'
 desc_en: 'For managing and switching multiple Node versions in Windows system'

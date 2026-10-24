@@ -1,5 +1,5 @@
 kind: OpenLDAP
-owner: eryajf
+owner: opsre
 repo: go-ldap-admin
 desc: '🌉 基于 Golang+Vue 实现的 OpenLDAP 后台管理项目'
 desc_en: '🌉 OpenLDAP background management project based on Golang+Vue'
