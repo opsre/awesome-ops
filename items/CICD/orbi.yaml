@@ -1,0 +1,5 @@
+kind: CICD
+owner: orbi-build
+repo: orbi
+desc: '开源可自托管的 AI 软件交付工具：给 GitHub Issue 打上 ai-ready 标签，编码 Agent 在隔离工作区实现、跑测试并提 PR，独立 AI 会话审查，合并闸门核对 CI 后合并，也可发版和部署'
+desc_en: 'Self-hostable open-source AI delivery tool: label a GitHub Issue ai-ready and a coding agent implements it, runs tests and opens a PR; a separate AI session reviews it and a merge gate checks CI before merging. Also handles releases and deploys'
