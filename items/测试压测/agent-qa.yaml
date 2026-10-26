@@ -1,0 +1,5 @@
+kind: 测试压测
+owner: vostride
+repo: agent-qa
+desc: '自然语言测试 Web、Android 和 iOS 应用，支持持久记忆、验证后的自我改进及 CLI/MCP。[官网](https://vostride.com)'
+desc_en: 'Natural-language testing for Web, Android, and iOS with persistent memory, validated self-improvement, and CLI/MCP access. [Website](https://vostride.com).'
