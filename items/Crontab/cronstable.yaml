@@ -1,0 +1,5 @@
+kind: Crontab
+owner: ptweezy
+repo: cronstable
+desc: '支持重试、告警、运行历史、工作流和仪表盘的作业调度器，适用于单机和集群'
+desc_en: 'Job scheduler with retries, alerts, run history, workflows, and dashboards for single machines and clusters.'
