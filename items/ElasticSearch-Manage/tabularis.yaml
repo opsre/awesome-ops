@@ -1,0 +1,5 @@
+kind: ElasticSearch-Manage
+owner: TabularisDB
+repo: tabularis
+desc: '开源数据库客户端，通过插件浏览 Elasticsearch 索引、查看映射并执行查询。'
+desc_en: 'Open-source database client for browsing Elasticsearch indices, inspecting mappings, and running queries through a plugin.'
