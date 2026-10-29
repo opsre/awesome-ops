@@ -1,0 +1,5 @@
+kind: CICD
+owner: supercorp-ai
+repo: superci
+desc: '以最便宜的 AWS Spot 机器运行 GitHub Actions：在你自己的 AWS 账号中，按 AWS 原价、零加价，2 vCPU 每分钟 0.0008 美元。一条命令完成设置，无需服务器或 Kubernetes。免费开源。'
+desc_en: 'GitHub Actions on the cheapest AWS spot machines, in your own account, at AWS''s price with nothing added: $0.0008 a minute for 2 vCPU. One command; no servers or Kubernetes. Free and open source.'
