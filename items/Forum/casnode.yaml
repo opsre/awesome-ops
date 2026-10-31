@@ -1,5 +1,5 @@
 kind: Forum
-owner: casdoor
+owner: casnode
 repo: casnode
-desc: '一个 V2EX 风格的论坛项目'
-desc_en: 'A forum project in V2EX style'
+desc: '一个 Go + Next.js 实现的 Discourse 风格论坛'
+desc_en: 'A Discourse-style forum built with Go and Next.js'
