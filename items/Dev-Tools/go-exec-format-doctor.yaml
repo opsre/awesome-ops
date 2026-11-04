@@ -1,0 +1,5 @@
+kind: Dev-Tools
+owner: soul-sol
+repo: go-exec-format-doctor
+desc: '离线诊断 ELF、Mach-O 和 PE 可执行文件的格式及架构不匹配，不执行目标文件且无需联网'
+desc_en: 'Diagnose ELF, Mach-O, and PE executable format and architecture mismatches locally without executing the target or using the network'
