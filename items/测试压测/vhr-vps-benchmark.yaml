@@ -1,0 +1,5 @@
+kind: 测试压测
+owner: vpshostreview
+repo: vhr-vps-benchmark
+desc: '单文件 Bash 脚本，约一分钟完成 Linux 服务器基准测试：sysbench CPU 与内存，fio 4k 随机读写 IOPS。'
+desc_en: 'Single-file Bash script that benchmarks a Linux server in about a minute: sysbench CPU and memory, fio 4k random read and write IOPS.'
