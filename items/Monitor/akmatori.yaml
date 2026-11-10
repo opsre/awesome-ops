@@ -1,0 +1,5 @@
+kind: Monitor
+owner: akmatori
+repo: akmatori
+desc: '自托管的 AI SRE 代理，自动调查 Prometheus、Grafana、Zabbix 等监控告警并给出根因分析'
+desc_en: 'Self-hosted AI SRE agent that investigates alerts from Prometheus, Grafana, Zabbix and others and reports the root cause'
