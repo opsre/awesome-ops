@@ -1,0 +1,5 @@
+kind: Monitor
+owner: NikKurkov
+repo: sitewatcher
+desc: '自托管网站监控，支持可用性、响应时间、TLS 证书和域名到期检查，并提供公开状态页。'
+desc_en: 'Self-hosted website monitoring for uptime, response time, TLS and domain expiry, with public status pages.'
