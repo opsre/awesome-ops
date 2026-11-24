@@ -1,0 +1,5 @@
+kind: Database
+owner: mansiverma897993
+repo: ReRu
+desc: '基于 Rust 实现的 Redis 兼容缓存与数据结构服务，支持 RESP2、TTL、持久化、复制与 Stream'
+desc_en: 'A Redis-compatible RESP2 cache and data-structure server in safe Rust, with TTLs, AOF/RDB persistence, replication and streams'
