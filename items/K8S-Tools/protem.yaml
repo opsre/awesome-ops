@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: iLLeniumStudios
+repo: protem
+desc: '面向 Kubernetes 的即时特权访问管理：跨集群的限时、审批门控 RBAC，到期自动移除。'
+desc_en: 'Just-in-time privileged access for Kubernetes: time-bound, approval-gated RBAC across clusters, removed automatically when it expires.'
