@@ -1,0 +1,5 @@
+kind: Docker-Tools
+owner: spar
+repo: dpad
+desc: '增强 docker 命令行：为 ps、images、stats、logs 添加颜色、排序和多容器日志，并提供管理容器、Compose 项目、实时统计和事件的终端界面'
+desc_en: 'Companion to the docker CLI that adds color, sorting and multi-container logs to ps, images, stats and logs, with a terminal UI for containers, Compose projects, live stats and events'
